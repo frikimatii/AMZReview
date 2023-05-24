@@ -1,25 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
+import Container from "react-bootstrap/Container";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
+import NavDropdown from "react-bootstrap/NavDropdown";
+import "./Nav.css";
 
-function App() {
+import Logo from "./img/logo Amazon Review_Mesa de trabajo 1.jpg";
+
+
+export function NavBarra() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Navbar expand="lg" variant="dark" className=" p-2 fw-bold fs-5">
+    <Container >
+      <Navbar.Brand href="#home" className="text-light display-1 fw-bold" >AMZReview</Navbar.Brand>
+      <Navbar.Toggle aria-controls="basic-navbar-nav " />
+      <Navbar.Collapse id="basic-navbar-nav ">
+        <Nav className="me-auto">
+          <Nav.Link href="#home">Inicio</Nav.Link>
+          <Nav.Link href="#link">Contactos</Nav.Link>
+          <NavDropdown title="Productos" id="basic-nav-dropdown" menuVariant="dark">
+            <NavDropdown.Item href="#action/3.1">Informatica</NavDropdown.Item>
+            <NavDropdown.Item href="#action/3.2">Aire Libre
+            </NavDropdown.Item>
+            <NavDropdown.Item href="#action/3.3">Mascotas</NavDropdown.Item>
+          </NavDropdown>
+        </Nav>
+      </Navbar.Collapse>
+    </Container>
+    <Container>
+          <Navbar.Brand href="#home" className="float-end ">
+            <img
+              alt=""
+              src={Logo}
+              width="60"
+              height="60"
+              className="d-inline-block align-top rounded-circle"
+            />
+          </Navbar.Brand>
+        </Container>
+  
+  </Navbar>
+ 
+  
   );
 }
-
-export default App;
