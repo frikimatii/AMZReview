@@ -3,6 +3,7 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import "./Nav.css";
+import { GrAmazon } from "react-icons/gr";
 
 import Logo from "./img/logo Amazon Review_Mesa de trabajo 1.jpg";
 
@@ -11,7 +12,7 @@ export function NavBarra() {
   return (
     <Navbar expand="lg" variant="dark" className=" p-2 fw-bold fs-5">
     <Container >
-      <Navbar.Brand href="#home" className="text-light display-1 fw-bold" >AMZReview</Navbar.Brand>
+      <Navbar.Brand href="#home" className="text-light display-1 fw-bold" >ReviewAMZReview</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav " />
       <Navbar.Collapse id="basic-navbar-nav ">
         <Nav className="me-auto">
@@ -37,7 +38,7 @@ export function NavBarra() {
             />
           </Navbar.Brand>
         </Container>
-  
+          <GrAmazon className="display-1 p-1" />
   </Navbar>
  
   

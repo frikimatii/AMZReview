@@ -5,7 +5,7 @@ import {NavBarra } from './App';
 import "bootstrap/dist/css/bootstrap.min.css";
 import {ContainerExample} from "./Banner";
 import {NavProducto} from "./NavProductos";
-import {AutoLayoutExample} from "./CardProduc";
+import { Acordeon} from "./Acordeon"
 import {Footer} from "./Footer"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -15,7 +15,7 @@ root.render(
     <NavBarra/>
     <ContainerExample />
     <NavProducto/>
-    <AutoLayoutExample/>
+    <Acordeon/>
     <Footer/>
 
     </>

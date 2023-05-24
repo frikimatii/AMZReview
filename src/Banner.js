@@ -6,6 +6,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Logo from "./img/logo Amazon Review_Mesa de trabajo 1.jpg";
 import "./Banner.css";
+import {GrStatusWarningSmall} from "react-icons/gr"
 
 export function ContainerExample() {
 
@@ -21,12 +22,12 @@ export function ContainerExample() {
         </h1>
       </div>
       <Container >
-        <h3 className="text-center text-black m-3 fw-bold subtitulo">
+        <h2 className="text-center text-black m-4 fw-bold subtitulo">
           Descubre los mejores productos de Amazon con nuestras reseñas
-        </h3>
+        </h2>
         <Row style={{backgroundColor: "#fff"}}>
           <Col className="col-sm ">
-            <p className="card-text fw-bold lh-sm text-black">
+            <p className="card-text fw-bold lh-sm text-black p-3">
               AMZ Rewins es tu fuente confiable para obtener reseñas detalladas
               y precisas de los productos más populares en Amazon. Nuestro
               equipo de expertos investiga, prueba y evalúa una amplia variedad
@@ -40,7 +41,7 @@ export function ContainerExample() {
               comunidad y encuentra el producto perfecto para ti hoy mismo!
             </p>
             <p className="card-text text-black">
-              <small>@frikimatii</small>
+              <small>@frikimatii <GrStatusWarningSmall/> </small>
             </p>
           </Col>
           <div className="col-sm">

@@ -34,7 +34,19 @@ export const data = [
         "pro": "Mejora en la calidad de sonido. Integración completa con el asistente de voz Alexa. Control de dispositivos inteligentes y creación de rutinas automatizadas. Posibilidad de vinculación con otros dispositivos Echo. Enfoque en la sostenibilidad y el uso de materiales reciclados.",
         "contra": "Algunos usuarios han informado de problemas de conectividad Bluetooth en ciertos casos. La calidad del sonido puede no ser comparable a sistemas de altavoces más avanzados.", 
         "resumen": "En resumen, el Echo Dot (5.ª generación) es un altavoz inteligente Bluetooth con Alexa que ofrece una mejora en la calidad de sonido, control de música y contenido, integración con dispositivos inteligentes y un diseño sostenible. Es una opción recomendada para aquellos que deseen disfrutar de un sonido potente y nítido en cualquier habitación, al tiempo que se benefician de las funciones y la comodidad que ofrece Alexa."
-    },
+    },{
+        "id": "",
+        "titulo": "",
+        "producto": "",
+        "info": "",
+        "img": "",
+        "linkAfiliado": "",
+        "review": "",
+        "pro": "",
+        "contra": "",
+        "resumen": "",
+        
+    }
 
  
 ]

@@ -12,7 +12,7 @@ import {
   MDBCol,
 } from "mdb-react-ui-kit";
 import { data } from "./ListaInformatica";
-import { GrSend } from "react-icons/gr";
+import { GrSend, GrDown } from "react-icons/gr";
 import { BtnLike } from "./BtnLike";
 
 
@@ -55,7 +55,7 @@ export function AutoLayoutExample() {
 
           <Accordion>
             <Accordion.Item eventKey="0">
-              <Accordion.Header><p className="fw-bold fs-4 m-2" >ReView Sos el producto</p></Accordion.Header>
+              <Accordion.Header><p className="fw-bold fs-4 m-2" >ReView Sos el producto <GrDown/> </p></Accordion.Header>
               <Accordion.Body><p className="m-2 ">{x.review}</p></Accordion.Body>
             </Accordion.Item>
           </Accordion>

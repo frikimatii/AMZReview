@@ -1,9 +1,11 @@
 .like-button,
 .dislike-button {
   padding: 10px 20px;
+  margin-left: 20px;
   border: none;
   cursor: pointer;
   transition: background-color 0.3s;
+  border-radius: 50px;
 }
 
 .like-button.active {

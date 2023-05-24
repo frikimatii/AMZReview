@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './BtnLike.css';
+import {GrLike, GrDislike} from "react-icons/gr"
 
 export const BtnLike = () => {
   const [likes, setLikes] = useState(0);
@@ -44,13 +45,13 @@ export const BtnLike = () => {
         onClick={handleLikeClick}
         disabled={liked} // Deshabilitar el botón si ya se ha dado "Me gusta"
       >
-        Me gusta ({likes})
+        <GrLike className='fs-4'/> ({likes})
       </button>
       <button
         className={disliked ? 'dislike-button active' : 'dislike-button'}
         onClick={handleDislikeClick}
       >
-        No me gusta ({dislikes})
+        <GrDislike className='fs-4'/> ({dislikes})
       </button>
     </div>
   );
