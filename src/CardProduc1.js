@@ -11,15 +11,15 @@ import {
   MDBRow,
   MDBCol,
 } from "mdb-react-ui-kit";
-import { dataInformatica } from "./ListaInformatica";
+import { dataAireLibre } from "./ListaAireLibre";
 import { BtnLike } from "./BtnLike";
+import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 import KeyboardDoubleArrowDownIcon from "@mui/icons-material/KeyboardDoubleArrowDown";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
-import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 
-export function AutoLayoutExample() {
-  return dataInformatica.map((x, i) => (
+export function AutoLayoutExample1() {
+  return dataAireLibre.map((x, i) => (
     <Container fluid style={{ width: "95%" }} key={i}>
       <Row>
         <div className="col-sm">

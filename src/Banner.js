@@ -12,7 +12,7 @@ export function ContainerExample() {
 
 
   return (
-    <Container fluid >
+    <Container fluid  >
       <div className="card text-light border border-0">
         <Image src={ImgBaner} className="img" alt="banner" />
       </div>

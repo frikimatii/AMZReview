@@ -4,7 +4,6 @@ import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import "./Nav.css";
 import { GrAmazon } from "react-icons/gr";
-
 import Logo from "./img/logo Amazon Review_Mesa de trabajo 1.jpg";
 
 

@@ -8,16 +8,16 @@ import {NavProducto} from "./NavProductos";
 import { Acordeon} from "./Acordeon"
 import {Footer} from "./Footer"
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <>
-    
     <NavBarra/>
-    <ContainerExample />
+    <ContainerExample /> 
     <NavProducto/>
     <Acordeon/>
+    
     <Footer/>
-
     </>
 );
 
