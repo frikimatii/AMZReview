@@ -28,7 +28,7 @@ export const dataMascotas = [
   },
   {
     id: 2,
-    titulo: "BIGWING Style-Parque Perro Gato Conejo Mascota de Juego Entrenamiento ",
+    titulo: "BIGWING Style-Parque",
     producto: "BIGWING Style-Parque Perro Gato Conejo Mascota de Juego Entrenamiento Dormitorio Plegable Lavable Durable Octágono 125x125x58 CM, Azul",
     info: "El BIGWING Style-Parque Perro Gato Conejo Mascota es un parque de juego y entrenamiento para mascotas diseñado para proporcionar un espacio cómodo y seguro. Tiene forma de octágono y está fabricado con material de poliuretano duradero. Con dimensiones de 125 cm de largo, 125 cm de ancho y 58 cm de altura, es lo suficientemente grande para acomodar a varias mascotas al mismo tiempo. Cuenta con una puerta lateral y un techo de tela tipo red que se puede abrir parcial o completamente.",
     img: "https://m.media-amazon.com/images/I/819dVzLOMoL._AC_SX679_.jpg",
@@ -40,7 +40,7 @@ export const dataMascotas = [
   },
   {
     id: 3,
-    titulo: "JOFLVA Dispensador De Agua para Mascotas,",
+    titulo: "JOFLVA Dispensador De Agua para Mascotas",
     producto: "JOFLVA Dispensador De Agua para Mascotas, Bebedero Perro, Bebedero Gatos, Bebederos Perros Pequeño Y Mediano Automaticos, Bebedero para Mascotas 2.5L Dispensador De Agua Automático para Perros Gatos.",
     info: "l JOFLVA Dispensador De Agua para Mascotas es un bebedero automático diseñado para perros y gatos. Tiene una capacidad de 2.5 litros, lo que significa que no necesitarás rellenarlo con frecuencia, y puede satisfacer las necesidades de agua de perros pequeños o gatos grandes durante 7 a 15 días. Está hecho de material plástico de calidad alimentaria, que es seguro, resistente y duradero. El dispensador utiliza la gravedad para asegurar un suministro continuo de agua fresca sin consumo de energía.",
     img: "https://m.media-amazon.com/images/I/61dqfJ3nbAL._AC_SX425_.jpg",
@@ -61,8 +61,41 @@ export const dataMascotas = [
     pro: "Ayuda a prevenir lesiones: Estas escaleras proporcionan una forma segura y conveniente para que tus mascotas suban y bajen de camas o sofás altos sin tener que saltar, lo que puede ayudar a prevenir lesiones en sus articulaciones, especialmente en mascotas pequeñas o en aquellas con problemas de movilidad.",
     contra: "Algunos usuarios mencionan que las escaleras pueden tardar un tiempo en recuperar su forma original después de desempacarlas debido al embalaje de compresión al vacío.",
     resumen: "En resumen, las escaleras para perros de Masthome son una opción conveniente y segura para ayudar a tus mascotas a alcanzar camas o sofás altos. Su material de calidad, facilidad de limpieza, resistencia y portabilidad las convierten en una opción práctica para aquellos que desean brindar comodidad y accesibilidad a sus mascotas.",
+  },{
+    id: 5,
+    titulo: "Tractive Rastreador GPS impermeable para perros",
+    producto: "Tractive Rastreador GPS impermeable para perros, ubicación y actividad, rango ilimitado y funciona con cualquier collar (azul medianoche)",
+    info: "El Tractive Rastreador GPS impermeable para perros es una herramienta avanzada que te permite rastrear y ubicar a tu perro en tiempo real. Es un dispositivo resistente al agua y se puede usar con cualquier collar. Con este rastreador, puedes tener tranquilidad sabiendo dónde se encuentra tu perro en todo momento. Además, ofrece funciones adicionales como el seguimiento de actividad y la configuración de una valla virtual para recibir notificaciones si tu mascota se sale de un área segura ",
+    img: "https://m.media-amazon.com/images/I/71wHLVaC0bL._AC_SX522_.jpg",
+    linkAfiliado: "https://amzn.to/3ME64eN",
+    review: " Los usuarios han elogiado el Tractive Rastreador GPS por su precisión y confiabilidad en la ubicación de sus perros. El historial de seguimiento y la ubicación en tiempo real brindan una gran tranquilidad a los propietarios de mascotas. También destacan la facilidad de uso de la aplicación y la compatibilidad con dispositivos móviles. La función de valla virtual ha sido muy útil para evitar que los perros se alejen demasiado y brinda una alerta inmediata si se excede el límite establecido. : El Tractive Rastreador GPS ofrece numerosos beneficios para los dueños de perros preocupados por la seguridad de sus mascotas. Con este dispositivo, puedes tener un control total sobre la ubicación de tu perro, lo que es especialmente útil en caso de que se pierda o se escape. Además, el seguimiento de actividad te permite monitorear la salud y el nivel de actividad de tu perro. Con la opción de configurar una valla virtual, puedes asegurarte de que tu perro permanezca en áreas seguras y recibir notificaciones instantáneas si se sale de ellas. En general, el Tractive Rastreador GPS es una herramienta imprescindible para proteger y cuidar a tu perro.",
+    pro: "Ubicación en tiempo real y historial de seguimiento para mantener un control preciso de la ubicación de tu perro. Resistente al agua, lo que permite su uso en diversa condiciones climáticas. Fácil de usar y compatible con dispositivos móviles a través de la aplicación Tractive GPS. Función de valla virtual para establecer áreas seguras y recibir notificaciones instantáneas si tu perro las abandona. Monitoreo de actividad para mantener a tu perro saludable y en forma.",
+    contra: "Requiere un plan de suscripción mensual o anual para acceder a todas las funciones del rastreador GPS. Algunos usuarios han experimentado problemas de conectividad en áreas remotas o con mala señal de red.",
+    resumen: "En general, el Tractive Rastreador GPS impermeable para perros es una excelente inversión para aquellos propietarios de mascotas que desean tener un mayor control y seguridad sobre la ubicación de sus perros, así como monitorear su actividad diaria. Con sus numerosos beneficios y características avanzadas, este dispositivo ofrece tranquilidad y protección para tu amigo peludo.",
+  },{
+    id: 6,
+    titulo: "Furhaven _ Tienda de campaña para perros y gatos",
+    producto: "Furhaven _ Tienda de campaña para perros y gatos, para interior y exterior, varios tamaños y colores",
+    info: "La tienda de campaña Furhaven está diseñada para brindar comodidad y seguridad a tus mascotas, ofreciéndoles un espacio cerrado y seguro para descansar y jugar tanto en interiores como en exteriores. Cuenta con una ventana de malla ligera de 360 grados y un techo que permite un gran flujo de aire y una visibilidad óptima para las mascotas y sus dueños. Es fácil de configurar y guardar gracias a su diseño emergente, lo que la convierte en un accesorio ideal para acampar y hacer picnics. Viene con pequeñas estacas de metal para asegurarla al suelo.",
+    img: "https://m.media-amazon.com/images/I/81cOeFR98TL._AC_SX425_.jpg",
+    linkAfiliado: "https://amzn.to/437wDA5",
+    review: "Los usuarios han elogiado la tienda de campaña Furhaven por su practicidad y versatilidad. Destacan su fácil configuración y plegado, lo que la hace ideal para llevar de viaje. La ventana de malla y el techo ofrecen una buena circulación de aire y permiten que las mascotas se sientan cómodas y seguras. Además, la opción de asegurarla al suelo con las estacas de metal proporciona estabilidad en exteriores. Los propietarios también valoran las diferentes opciones de tamaño y colores disponibles para adaptarse a las necesidades de sus mascotas y sus preferencias estéticas.  La tienda de campaña Furhaven es una excelente opción para proporcionar un espacio seguro y cómodo a tus mascotas, ya sea en casa o durante tus aventuras al aire libre. Su diseño emergente facilita su instalación y almacenamiento, y su ventana de malla y techo garantizan una buena ventilación y visibilidad. Además, la posibilidad de asegurarla al suelo la hace ideal para su uso en exteriores. Con diferentes tamaños y colores disponibles, puedes encontrar la opción perfecta para satisfacer las necesidades de tu mascota y combinar con tu estilo.",
+    pro: "Fácil configuración y plegado emergente para mayor comodidad durante los viajes. Ventana de malla de 360 grados y techo que proporcionan una buena circulación de aire  visibilidad. Diseño seguro y estable con estacas de metal para asegurar la tienda al suelo. Disponible en diferentes tamaños y colores para adaptarse a las necesidades de tu mascota y tus preferencias estéticas. Ideal tanto para uso en interiores como en exteriores.",
+    contra: "Se recomienda precaución al abrir la tienda para evitar accidentes. Es necesario tener cuidado y no dejar a la mascota desatendida mientras está en uso",
+    resumen: "En resumen, la tienda de campaña Furhaven es una opción conveniente y segura para proporcionar un espacio cerrado y confortable a tus mascotas. Con su fácil configuración, diseño resistente y opciones de tamaño y color, es una solución versátil para el descanso y juego de tus mascotas, tanto en el interior como en el exterior.",
+  },{
+    id: 7,
+    titulo: "Recaceik Caja de arena para gatos con árbol para gatos",
+    producto: "Recaceik Caja de arena para gatos con árbol para gatos, muebles de baño ocultos para gatos con divisor, casa de madera para gatos con plataforma",
+    info: "La caja de arena Recaceik es una solución multifuncional para gatos que combina una casa de madera con un árbol para gatos. La parte inferior de la casa de madera proporciona un espacio ideal para colocar una alfombrilla para gatos o una caja de arena, mientras que la parte superior ofrece una parada de descanso y una bola de felpa para que tu gato se relaje y se entretenga. Este diseño ahorra espacio en tu hogar al combinar dos funciones en un solo mueble.",
+    img: "https://m.media-amazon.com/images/I/81bsXGeXEYL._AC_SX425_.jpg",
+    linkAfiliado: "https://amzn.to/42bY7DA",
+    review: "Los usuarios han elogiado la caja de arena Recaceik por su funcionalidad y diseño elegante. Destacan la versatilidad de poder utilizarla como caja de arena o como un nido para gatos al quitar el divisor central. La casa de madera ofrece privacidad y comodidad a los gatos, ayudando a reducir el olor y la dispersión de arena. El árbol para gatos y la bola de felpa brindan opciones de entretenimiento y descanso para los gatos, satisfaciendo sus necesidades naturales. Además, la estructura resistente y los materiales de alta calidad aseguran durabilidad y facilidad de limpieza. La caja de arena Recaceik es una solución práctica y elegante para mantener el área de baño de tu gato organizada y discreta. Su diseño multifuncional permite ahorrar espacio al combinar una casa de madera con un árbol para gatos, brindando opciones de descanso y entretenimiento para tu mascota. Además, su estructura resistente y los materiales de calidad garantizan durabilidad y facilidad de limpieza. Es un regalo ideal para tu gato, ofreciéndole un espacio privado y cómodo para sus necesidades. La caja de arena Recaceik es fácil de montar y viene con instrucciones detalladas.",
+    pro: "Diseño multifuncional que combina una casa de madera y un árbol para gatos. Opción de utilizarlo como caja de arena o como nido de gato al quitar el divisor central. Ayuda a reducir el olor y la dispersión de arena. Proporciona opciones de entretenimiento y descanso con el árbol para gatos y la bola de felpa. Estructura resistente y materiales de alta calidad para durabilidad y fácil limpieza.",
+    contra: "Requiere espacio adecuado para su ubicación en el hogar. Puede resultar demasiado grande para hogares con espacios limitados.",
+    resumen: "En resumen, la caja de arena Recaceik es una solución versátil y práctica para mantener el área de baño de tu gato organizada y discreta. Con su diseño multifuncional, ofrece tanto una casa de madera como un árbol para gatos, brindando opciones de descanso y entretenimiento. Su estructura resistente y materiales de calidad aseguran durabilidad y facilidad de limpieza. Si buscas una solución elegante y funcional para tu gato, la caja de arena Recaceik es una excelente opción.",
   },
-];
+];  
 
 /***{
     id: "",
