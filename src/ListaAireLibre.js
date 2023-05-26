@@ -45,6 +45,22 @@ export const dataAireLibre = [
     resumen:
       "En resumen, el Kickball Pro es un kit completo de kickball diseñado para proporcionar diversión y emoción al aire libre. Con materiales de alta calidad y resistencia, ofrece una experiencia de juego satisfactoria. La marca Original Cup es reconocida por su calidad y originalidad en juegos al aire libre, lo que garantiza la confiabilidad del producto.",
   },
+  {
+    id: 4,
+    titulo: " Colchón hinchable Ivation EZ-Bed con marco y funda con ruedas",
+    producto:
+      "Colchón hinchable de Ivation EZ-Bed, con marco y funda con ruedas, interruptor de autoapagado para lograr la comodidad deseada, superficie cómoda para dormir",
+    info: " El colchón hinchable Ivation EZ-Bed es una solución conveniente y cómoda para proporcionar una cama adicional en tu hogar. Viene con un marco integrado y una funda con ruedas, lo que facilita su instalación y almacenamiento. Cuenta con una bomba incorporada que infla y desinfla automáticamente el colchón en menos de 4 minutos. El colchón tiene una parte superior flocada duradera con 48 bobinas circulares que brindan una superficie de sueño suave y cómoda. Cuando no está en uso, el colchón se desinfla y se pliega en una bolsa con ruedas tipo duffle para facilitar su transporte y almacenamiento.",
+    img: "https://m.media-amazon.com/images/I/71Fc3Qpx4yL._AC_SX425_.jpg",
+    linkAfiliado: "https://amzn.to/43eLZ5Z",
+    review:
+      "El colchón hinchable Ivation EZ-Bed es altamente valorado por los usuarios. Su conveniente diseño con marco y funda con ruedas facilita su instalación y almacenamiento, lo que lo hace perfecto para su uso en espacios reducidos o para llevarlo de viaje. La bomba incorporada es rápida y eficiente, inflando y desinflando el colchón en menos de 4 minutos. Los usuarios aprecian la comodidad proporcionada por la superficie flocada y las bobinas circulares, asegurando una buena noche de sueño. Además, la altura estándar de cama y la capacidad de peso de 300 libras brindan soporte adecuado para diferentes usuarios. Conveniente y fácil de usar: El colchón hinchable Ivation EZ-Bed se despliega y se infla automáticamente, ahorrando tiempo y esfuerzo en la instalación. Además, su funda con ruedas facilita su transporte y almacenamiento. Comodidad garantizada: La superficie flocada y las bobinas circulares proporcionan una experiencia de sueño suave y cómoda. Versatilidad: Puede ser utilizado como una cama adicional en el hogar, para invitados o en viajes, brindando una solución cómoda y práctica.",
+    pro: "Fácil instalación y almacenamiento gracias al marco integrado y la funda con ruedas. Bomba incorporada que infla y desinfla automáticamente el colchón en menos de 4 minutos. Superficie de sueño flocada y bobinas circulares para mayor comodidad. Altura estándar de cama y capacidad de peso de 300 libras.",
+    contra:
+      "Puede ser un poco pesado y voluminoso cuando está completamente inflado, lo que puede dificultar su transporte en ciertos casos.",
+    resumen:
+      "En resumen, el colchón hinchable Ivation EZ-Bed ofrece comodidad, conveniencia y facilidad de uso. Con su diseño con marco y funda con ruedas, inflado automático y superficie de sueño cómoda, es una opción ideal para proporcionar una cama adicional en tu hogar o para llevarlo de viaje. Sus características y valoraciones positivas respaldan su calidad y practicidad.",
+  }
 ];
 /***{
     id: "",

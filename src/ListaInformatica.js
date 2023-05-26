@@ -91,7 +91,22 @@ export const dataInformatica = [
     pro: "Calidad de imagen clara y nítida con resolución Full HD 1080p. Apple AirPlay y Chromecast integrados para transmitir contenido desde dispositivos compatibles. Procesador de imágenes IQ para un procesamiento superior y tiempos de carga rápidos. V-Gaming Engine para una experiencia de juego optimizada. Compatibilidad con Alexa para control de voz convenientep Plataforma SmartCast para acceder a una amplia selección de aplicaciones de servicios de transmisión.",
     contra: "Algunos usuarios pueden preferir una resolución más alta, como 4K, para una experiencia de visualización más avanzada. La velocidad de actualización de 60 Hz puede no ser ideal para juegos con alta velocidad de fotogramas.",
     resumen: "En resumen, el VIZIO D40f-J09 es un televisor inteligente de 40 pulgadas que ofrece una calidad de imagen clara y funciones inteligentes para una experiencia de visualización satisfactoria. Con su compatibilidad con Apple AirPlay, Chromecast integrados y Alexa, así como su plataforma SmartCast, este televisor proporciona opciones de entretenimiento versátiles y un control conveniente. Si buscas un televisor Full HD con características inteligentes y un rendimiento sólido, el VIZIO D40f-J09 es una opción a considerar.",
-  },
+  },{
+    id: 7,
+    titulo:
+      "Zink Kodak Step Printer – Impresora inalámbrica de fotos de teléfono celular",
+    producto: "Impresora inalámbrica de fotos de teléfono celular",
+    info: "La impresora Zink Kodak Step es una solución portátil y conveniente para imprimir tus fotos directamente desde tu teléfono celular. Se conecta a través de Bluetooth o NFC a cualquier smartphone iOS o Android, tablet u otro dispositivo similar, para que puedas imprimir tus imágenes al instante. Convierte tus selfies, retratos y publicaciones de redes sociales en fotos físicas que puedes compartir y conservar. La impresora utiliza la tecnología Zink, que elimina la necesidad de cartuchos de tinta, tóneres o cintas, ofreciendo impresiones de alta calidad, duraderas y detalladas en papel adhesivo de 2x3 pulgadas. Además, la impresora cuenta con una aplicación gratuita que te permite editar y personalizar tus fotos con filtros, bordes, calcomanías y más. Es compacta, ligera y cuenta con una batería recargable integrada, lo que la hace perfecta para llevarla contigo a donde vayas.",
+    img: "https://m.media-amazon.com/images/I/71IPpYxsnJL._AC_SX466_.jpg",
+    linkAfiliado: "https://amzn.to/3MC05Ya",
+    review:
+      "La impresora Zink Kodak Step ha recibido excelentes valoraciones por parte de los usuarios. Su facilidad de uso, conexión inalámbrica con dispositivos móviles y la calidad de las impresiones son aspectos destacados en los comentarios. Los usuarios también mencionan su portabilidad y la posibilidad de personalizar las fotos a través de la aplicación. Es una excelente opción para aquellos que desean imprimir sus fotos instantáneamente y tener recuerdos tangibles.",
+    pro: "- Fácil conexión inalámbrica con dispositivos móviles\n- Tecnología Zink que elimina la necesidad de cartuchos de tinta\n- Aplicación gratuita para personalizar y editar las fotos\n- Portátil y ligera, ideal para llevarla contigo",
+    contra:
+      "- Velocidad de impresión limitada\n- Tamaño de papel limitado (2x3 pulgadas)",
+    resumen:
+      "La impresora Zink Kodak Step es una impresora inalámbrica que te permite imprimir tus fotos directamente desde tu teléfono celular. Con su tecnología Zink, aplicación gratuita y portabilidad, es una opción práctica para imprimir y compartir tus momentos favoritos en forma de fotos físicas. Aunque su velocidad de impresión y tamaño de papel pueden ser limitados, su facilidad de uso y calidad de impresión la convierten en una opción popular entre los usuarios.",
+  }
   
 ];
   
