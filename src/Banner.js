@@ -22,7 +22,7 @@ export function ContainerExample() {
       </div>
       <div className=" display-1 ">
         <h1 className=" text-center fs-1 fw-bold animate__animated animate__jackInTheBox animate__delay-1s" id="titulo">
-          AMZ Rewind
+          AMZ Review
         </h1>
       </div>
       <Container >
