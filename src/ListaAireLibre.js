@@ -1,5 +1,28 @@
 export const dataAireLibre = [
   {
+    id: 9,
+    "titulo": "Razor Patinete A6 Kick para niños de 8 años en adelante, manillar extra alto y cubierta más larga, ruedas de uretano de 10 pulgadas, tecnología anti-vibración, para ciclistas de hasta 220 libras",
+    producto: "Color: plateado, Blanco",
+    info: "El patinete Razor A6 Kick es perfecto para niños de 8 años en adelante. Cuenta con un manillar extra alto y una cubierta más larga, lo que lo hace adecuado para ciclistas de hasta 220 libras. Su diseño plegable permite un fácil transporte y almacenamiento. Las ruedas de uretano de 10 pulgadas proporcionan un desplazamiento suave y cómodo, mientras que la tecnología anti-vibración ayuda a reducir la fatiga en los viajes más largos. Construido con un armazón de aluminio duradero, este patinete es resistente y confiable para un uso prolongado.",
+    img: "https://m.media-amazon.com/images/I/71SnTUEzxnL._AC_SY879_.jpg",
+    linkAfiliado: "https://www.amazon.com/Razor-Kick-Scooter-Handlebar-Adjustable/dp/B01EN6LTXM",
+    review: "¡Este patinete es impresionante! Lo compré para mi hijo de 10 años, y le encanta. El manillar extra alto y la cubierta más larga le dan una sensación de estabilidad y seguridad mientras se desplaza. Las ruedas de uretano hacen que el paseo sea muy suave, y la tecnología anti-vibración realmente marca la diferencia en viajes más largos. También es fácil de plegar y transportar cuando no lo estamos usando. En general, estamos muy satisfechos con la calidad y el rendimiento de este patinete. ¡Lo recomiendo altamente!",
+    pro: "1. Diseño plegable para facilitar el transporte y almacenamiento. 2. Manillar extra alto y cubierta más larga para mayor estabilidad. 3. Ruedas de uretano de 10 pulgadas para un desplazamiento suave. 4. Tecnología anti-vibración para reducir la fatiga en viajes largos.",
+    contra: "1. El costo de envío y derechos de importación puede ser alto en algunas regiones. 2. Algunos usuarios pueden preferir más opciones de colores disponibles.",
+    resumen: "El patinete Razor A6 Kick es una excelente opción para niños de 8 años en adelante que buscan un medio de transporte divertido y confiable. Su diseño plegable, manillar extra alto y cubierta más larga ofrecen estabilidad y comodidad durante los paseos. Las ruedas de uretano de 10 pulgadas proporcionan un desplazamiento suave, y la tecnología anti-vibración asegura viajes más largos sin fatiga excesiva. Fabricado con un duradero armazón de aluminio, este patinete es resistente y puede soportar ciclistas de hasta 220 libras. Si estás buscando un patinete de calidad con un rendimiento excepcional, ¡el Razor A6 Kick es la elección ideal!"
+  },{
+    id: 8,
+    titulo: "Cecotec Ventilador de Torre con Temporizador EnergySilence 790 Skyline",
+    producto: "Ventilador de Torre con Temporizador EnergySilence 790 Skyline",
+    info: "EnergySilence Technology Consigue una profunda sensación de aire fresco al instante con el máximo silencio y confort. Gracias a la tecnología 3Speed Function, podrás elegir entre 3 velocidades de funcionamiento. Dispone de temporizador programable hasta 2 Horas. CooperEngine: Exclusivo motor 100% de cobre de altas eficiencia. La tecnología RotateWind permite un mayor ángulo de aireación. Fácil de transportar y almacenar gracias a su asa de transporte.",
+    img: "https://m.media-amazon.com/images/I/61dLDZpwqbL._AC_SX569_.jpg",
+    linkAfiliado: "https://amzn.to/3K8xnxt",
+    review: "El ventilador de torre EnergySilence 790 Skyline de Cecotec ofrece una experiencia refrescante y silenciosa. Sus 3 velocidades y temporizador programable brindan opciones personalizables de flujo de aire. El motor de cobre garantiza una alta eficiencia y durabilidad. Además, su diseño elegante y portátil lo convierte en una opción conveniente para cualquier hogar.",
+    pro: "1. Tecnología EnergySilence para un aire fresco y silencioso. 2. Temporizador programable para mayor comodidad. 3. Motor de cobre de alta eficiencia y durabilidad. 4. Amplio ángulo de aireación con tecnología RotateWind. 5. Fácil de transportar y almacenar con asa de transporte.",
+    contra: "1. No incluye control remoto. 2. No es adecuado para habitaciones grandes. 3. No tiene función de oscilación.",
+    resumen: "El ventilador de torre EnergySilence 790 Skyline de Cecotec ofrece un flujo de aire fresco y silencioso con su tecnología EnergySilence. Con opciones de velocidad y temporizador programables, es conveniente y personalizable. El motor de cobre garantiza eficiencia y durabilidad, mientras que su diseño portátil lo hace fácil de transportar y almacenar."
+  },
+   {
     id: 1,
     titulo: "Sun Ninja Tienda de Playa Plegable UPF50+ con Pala de Arena",
     producto:

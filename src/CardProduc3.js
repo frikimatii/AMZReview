@@ -11,37 +11,34 @@ import {
   MDBRow,
   MDBCol,
 } from "mdb-react-ui-kit";
-import { dataInformatica } from "./ListaInformatica";
+import { dataHogar } from "./ListaHogar";
 import { BtnLike } from "./BtnLike";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 import KeyboardDoubleArrowDownIcon from "@mui/icons-material/KeyboardDoubleArrowDown";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import React, { useState } from 'react';
-import { Nav, Dropdown } from 'react-bootstrap';
+import React, { useState } from "react";
+import { Nav, Dropdown } from "react-bootstrap";
 
+export function AutoLayoutExample3() {
+  const [, setSelectedProduct4] = useState(null);
 
-
-export function AutoLayoutExample() {
-
-  const [, setSelectedProduct1] = useState(null);
-
-  const handleProductSelect1 = (productId) => {
-    setSelectedProduct1(productId);
+  const handleProductSelect4 = (productId) => {
+    setSelectedProduct4(productId);
   };
 
   return (
     <>
       <Dropdown>
-        <Dropdown.Toggle variant="dark" id="dropdown-basic">
+        <Dropdown.Toggle variant="dark" id="dropdown-basic2">
           Lista de Productos
         </Dropdown.Toggle>
         <Dropdown.Menu>
-          {dataInformatica.map((x, i) => (
+          {dataHogar.map((x, i) => (
             <Nav.Link
-              href={`#${x.id}`}
+              href={`#${x.linkAfiliado}`}
               key={i}
-              onClick={() => handleProductSelect1(x.id)}
+              onClick={() => handleProductSelect4(x.linkAfiliado)}
             >
               {x.titulo}
             </Nav.Link>
@@ -49,15 +46,11 @@ export function AutoLayoutExample() {
         </Dropdown.Menu>
       </Dropdown>
       <div>
-        {dataInformatica.map((x, i) => (
-          <Container
-            fluid
-            style={{ width: "95%" }}
-            key={i}
-          >
+        {dataHogar.map((x, i) => (
+          <Container fluid style={{ width: "95%" }} key={i} id={x.linkAfiliado}>
             <Row>
               <div className="col-sm">
-                <MDBCard fluid style={{ width: '95%' }} key={x.id} id={x.id}>
+                <MDBCard fluid style={{ width: "95%" }} key={x.id} id={x.linkAfiliado}>
                   <MDBRow className="g-0 m-4">
                     <MDBCol md="4">
                       <MDBCardImage
@@ -143,7 +136,7 @@ export function AutoLayoutExample() {
                 ></div>
               </Row>
             </Col>
-       
+            
           </Container>
         ))}
       </div>

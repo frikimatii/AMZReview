@@ -1,9 +1,21 @@
 export const dataMascotas = [
   {
+    id: 8,
+    titulo: "PETLIBRO Alimentadores automáticos para gatos, dispensador automático de alimentos para gatos con horario",
+    producto: "Color: blanco opaco, Negro transparente",
+    info: "El alimentador automático para gatos de PETLIBRO te ayuda a asegurarte de que tu mascota coma regularmente y de manera saludable incluso cuando no estás en casa. Con una pantalla LCD integrada, puedes configurar y programar fácilmente las comidas de acuerdo a las necesidades de tu mascota. Además, el dispensador cuenta con una grabadora de voz que te permite dejar un mensaje de 10 segundos para que tu mascota se sienta acompañada mientras come en tu ausencia. La salida de alimentos ha sido rediseñada para evitar obstrucciones y hacer que la postura de alimentación de tu gato sea más cómoda.",
+    img: "https://m.media-amazon.com/images/I/51PvKPjMs1L._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3pX1h0S",
+    review: "¡Este alimentador automático para gatos es una maravilla! Me proporciona tranquilidad cuando tengo que salir de casa y sé que mi gato está siendo alimentado de manera regular y saludable. La opción de grabar mi voz para llamar a mi gato a comer es una característica encantadora. La salida de alimentos rediseñada evita obstrucciones, lo que solía ser un problema con mi antiguo alimentador. Además, la tapa superior segura mantiene la comida fresca y evita que mi gato acceda a ella cuando no es la hora de comer. Sin duda, recomiendo este producto a todos los dueños de mascotas que necesiten un alimentador confiable y práctico.",
+    pro: "1. Programación de comidas personalizada para mascotas. 2. Grabadora de voz para llamar a la mascota a comer. 3. Evita obstrucciones en la salida de alimentos. 4. Tapa superior segura para mantener la frescura de los alimentos.",
+    contra: "1. El costo de envío y derechos de importación puede ser alto en algunas regiones. 2. Las baterías de respaldo no están incluidas.",
+    resumen: "El alimentador automático para gatos de PETLIBRO es la solución perfecta para garantizar que tu mascota coma de manera regular y saludable incluso cuando no estás presente. Con su programación personalizada y grabadora de voz interactiva, puedes mantener a tu gato alimentado y sentirte conectado con él incluso cuando estás fuera. La salida de alimentos rediseñada evita obstrucciones y proporciona una experiencia de alimentación más cómoda para tu gato. Además, la tapa superior segura mantiene la comida fresca y fuera del alcance de tu gato hasta la hora programada. Si buscas un alimentador automático confiable y práctico para tu gato o perro, ¡este es el producto ideal!"
+  },
+  {
     id: 0,
     titulo: " XIHUAN Impiador Pata Perro, Limpiador De Patas De Perros",
     producto:
-      "XIHUAN Impiador Pata Perro, Limpiador De Patas De Perros, Portátil Desmontable Limpiador De Huellas De Perro, Limpiador Patas Perro Mascota para Limpiar Los Pies Sucios De Mascotas",
+      "XIHUAN Impiador Pata Perro, Limpiador De Patas De Perros, Portátil Desmontable",
     info: " El limpiador de patas de perro XIHUAN es un dispositivo portátil y desmontable diseñado para limpiar las patas sucias de tu mascota. Está hecho de material de silicona suave y duradero, con pelos de silicona en el interior que son cómodos para limpiar y eliminar la suciedad sin dañar las patas de tu perro. Este limpiador de patas es fácil de usar: se llena con agua y un poco de jabón para perros, se colocan las patas del perro dentro y se gira para limpiar eficazmente. Además, es desmontable, lo que facilita su limpieza y mantenimiento.",
     img: "https://m.media-amazon.com/images/I/61+vyup4k4L._AC_SX679_.jpg",
     linkAfiliado: "https://amzn.to/3oBvQZ9",

@@ -1,5 +1,16 @@
 export const dataInformatica = [
   {
+    id: 8,
+    titulo: "Meta Quest 2 — Advanced All-In-One Virtual Reality Headset — 128 GB",
+    producto: " Meta Quest 2 — Advanced All-In-One Estilo: Solo auriculares, Paquete activo, Paquete Pro, Paquete de iniciación, Paquete Streamer, Tamaño: 128GB, 256GB",
+    info: "El Meta Quest 2 es un avanzado auricular de realidad virtual todo en uno con capacidad de 128 GB. Experimenta una inmersión total en el mundo virtual con audio posicional 3D, seguimiento manual y retroalimentación háptica. Con un procesador súper rápido y una pantalla de alta resolución, disfrutarás de una experiencia fluida y realista incluso en escenas de alta velocidad. Explora un amplio universo de más de 250 títulos en juegos, fitness, social/multijugador y entretenimiento, incluyendo lanzamientos exclusivos y experiencias únicas de realidad virtual. El Meta Quest 2 es inalámbrico y no requiere una PC o consola para funcionar, brindándote total libertad de movimiento en la realidad virtual.",
+    img: "https://m.media-amazon.com/images/I/61tE7IcuLmL._AC_SX466_.jpg",
+    linkAfiliado: "https://amzn.to/3pOZevV",
+    review: "¡El Meta Quest 2 es asombroso! La calidad de la realidad virtual es impresionante, y la capacidad de 128 GB te permite disfrutar de una amplia variedad de juegos y experiencias sin preocuparte por el espacio. La inmersión total que brinda el audio posicional y el seguimiento manual es sorprendente, te sentirás realmente dentro del mundo virtual. La configuración es sencilla y la batería incorporada te permite disfrutar de horas de juego sin preocupaciones. Sin duda, es una de las mejores opciones para la realidad virtual sin necesidad de una PC o consola.",
+    pro: "1. Capacidad de 128 GB para disfrutar de una amplia variedad de juegos y experiencias. 2. Inmersión total con audio posicional 3D, seguimiento manual y retroalimentación háptica. 3. Auricular inalámbrico para total libertad de movimiento. 4. Fácil configuración y batería incorporada para horas de juego.",
+    contra: "1. El costo de envío y derechos de importación puede ser alto en algunas regiones. 2. Algunos usuarios pueden preferir una mayor capacidad de almacenamiento.",
+    resumen: "El Meta Quest 2 es un avanzado auricular de realidad virtual con capacidad de 128 GB, que te ofrece una inmersión total con audio posicional 3D, seguimiento manual y retroalimentación háptica. Con una amplia selección de juegos y experiencias, este auricular inalámbrico te brinda total libertad de movimiento en la realidad virtual. La configuración es sencilla y la batería incorporada garantiza horas de juego sin preocupaciones. Si buscas una experiencia de realidad virtual completa y sin necesidad de una PC o consola, el Meta Quest 2 es una excelente elección."
+  },{
     id: 0,
     titulo: "Chromecast con Google TV (HD)",
     producto:
