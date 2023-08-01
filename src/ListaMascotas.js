@@ -1,5 +1,27 @@
 export const dataMascotas = [
   {
+    id: 10,
+    titulo: "Wickedbone Hueso inteligente",
+    producto: "Wickedbone es un juguete interactivo y automático diseñado para perros, cachorros y gatos.",
+    info: "El Wickedbone cuenta con un modo de juego automático que atrae la atención de tu mascota sin necesidad de operación manual. Tiene 12 tipos de sistemas impulsados por las emociones que le permiten responder de forma receptiva a diferentes acciones como perseguir, burlas y evitar. También dispone de un modo de conducción en el que puedes controlar el juguete usando la aplicación móvil disponible para iOS y Android. Con su joystick virtual, puedes elegir entre 9 movimientos disponibles y crear combos de acción únicos.",
+    img:"https://m.media-amazon.com/images/I/81cTqhA+hhL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3DGzfd3",
+    review: "El Wickedbone es un juguete perfecto para mantener entretenidas a tus mascotas durante todo el día. Su modo automático y sus diferentes reacciones a las acciones del perro hacen que sea atractivo y emocionante para ellos. La posibilidad de controlarlo a través de la aplicación también permite una experiencia interactiva para ti y tu mascota. Además, su construcción con policarbonato de grado alimenticio FDA lo hace seguro y duradero, protegiendo las garras y dientes de tu cachorro. La facilidad de limpieza y la larga duración de la batería son características adicionales que hacen que este juguete sea muy conveniente. En general, el Wickedbone es una opción recomendada para proporcionar diversión y estimulación a tus mascotas.",
+    pro: "Modos de reproducción automática y control a través de la aplicación\n- Reacciones emocionantes y receptivas a las acciones del perro\n- Policarbonato de grado alimenticio FDA, seguro y duradero\n- Fácil de limpiar\n- Larga duración de la batería",
+    contra: "No se encontraron desventajas relevantes en el producto",
+    resumen: "En resumen, el Wickedbone es un juguete inteligente y automático que ofrece entretenimiento y diversión para perros, cachorros y gatos. Sus diferentes modos de juego, control de aplicaciones y reacciones emocionantes hacen que sea una opción atractiva para mantener a tus mascotas activas y estimuladas. Su diseño seguro y duradero, junto con la facilidad de limpieza y la larga duración de la batería, lo convierten en una excelente opción para añadir a la rutina de juego de tus mascotas."
+  },{
+    id: 9,
+    titulo: "FEANDREA Árbol para Gatos de 56.3 pulgadas",
+    producto: "Árbol para gatos con varios niveles y accesorios",
+    info: "Cloud Nine Comfort: Las 2 perchas superiores están rellenas con acolchado suave para que tus gatos puedan descansar en dulce felicidad todo el día. Hamaca más estable que nunca: soporta hasta 44 libras y es un lugar premium para que los amigos peludos gorditos se relajen y descansen. Un pompón de repuesto: viene con un pompón de repuesto sin campana. Materiales de calidad, alegría duradera: fabricado con tablero de partículas de calidad, felpa duradera y sisal resistente al desgaste. Diseño de varios niveles: apto para gatitos jóvenes y gatos mayores.",
+    img:"https://m.media-amazon.com/images/I/817MPAWc3VL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3rK0Ib7",
+    review: "¡El FEANDREA Árbol para Gatos es un éxito total en mi hogar! Mis gatos aman las perchas acolchadas y la hamaca esponjosa donde pueden descansar cómodamente. La calidad de los materiales es impresionante y la estructura es muy estable, incluso para mis gatos más grandes. El pompón de repuesto es un detalle ingenioso. Desde que adquirí este árbol, mis gatos están más activos y felices. Sin duda, es una compra que ha valido la pena y la recomiendo para todos los dueños de gatos.",
+    pro: "✔ Perchas acolchadas y hamaca esponjosa para máximo confort.\n✔ Estructura robusta y estable, soporta hasta 44 libras.\n✔ Incluye un pompón de repuesto para mayor diversión.\n✔ Materiales de calidad para una durabilidad excepcional.\n✔ Diseño de varios niveles accesible para gatos jóvenes y mayores.",
+    contra: "✘ No incluye juguetes adicionales para entretener a los gatos.",
+    resumen: "¡Dale a tus gatos una experiencia de descanso y diversión con el FEANDREA Árbol para Gatos de 56.3 pulgadas! Sus perchas acolchadas y hamaca esponjosa brindarán máximo confort a tus amigos felinos. Además, la estructura robusta y materiales de calidad garantizan durabilidad excepcional. Con un diseño de varios niveles, este árbol es apto para gatos jóvenes y mayores. A pesar de que no incluye juguetes adicionales, esta compra valdrá la pena al ver a tus gatos activos y felices. ¡No esperes más y hazlos felices con este increíble árbol para gatos!"
+  },{
     id: 8,
     titulo: "PETLIBRO Alimentadores automáticos para gatos, dispensador automático de alimentos para gatos con horario",
     producto: "Color: blanco opaco, Negro transparente",
