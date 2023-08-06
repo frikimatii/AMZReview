@@ -6,30 +6,27 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Logo from "./img/logo Amazon Review_Mesa de trabajo 1.jpg";
 import "./Banner.css";
-import {GrStatusWarningSmall} from "react-icons/gr"
-import 'animate.css';
-
-
-
+import { GrStatusWarningSmall } from "react-icons/gr";
+import "animate.css";
 
 export function ContainerExample() {
-
-
-  return (
-    <Container fluid  >
-      <div className="card text-light border border-0" id="banner">
+  return (<>     
+   <div className="card text-light border border-0">
         <Image src={ImgBaner} className="img" alt="banner" />
       </div>
       <div className=" display-1 ">
-        <h1 className=" text-center fs-1 fw-bold animate__animated animate__jackInTheBox animate__delay-1s" id="titulo">
+        <h1
+          className=" text-center fs-1 fw-bold animate__animated animate__jackInTheBox animate__delay-1s"
+          id="titulo"
+        >
           AMZ Review
         </h1>
       </div>
-      <Container >
+      <Container>
         <h2 className="text-center text-black m-4 fw-bold subtitulo animate__animated animate__fadeInRightBig animate__delay-2s">
           Descubre los mejores productos de Amazon con nuestras reseñas
         </h2>
-        <Row style={{backgroundColor: "#fff"}}>
+        <Row style={{ backgroundColor: "#fff" }}>
           <Col className="col-sm ">
             <p className="card-text fw-bold lh-sm text-black p-3 animate__animated animate__fadeInLeft animate__delay-2s">
               AMZ Rewins es tu fuente confiable para obtener reseñas detalladas
@@ -45,14 +42,16 @@ export function ContainerExample() {
               comunidad y encuentra el producto perfecto para ti hoy mismo!
             </p>
             <p className="card-text text-black">
-              <small>@frikimatii <GrStatusWarningSmall/> </small>
+              <small>
+                @frikimatii <GrStatusWarningSmall />{" "}
+              </small>
             </p>
           </Col>
           <div className="col-sm">
             <div className="text-center Logo animate__animated animate__swing  animate__repeat-4 animate__infinite">
               <Image
                 src={Logo}
-                className=" rounded justify-content-between" 
+                className=" rounded justify-content-between"
                 alt="logo"
                 height="250px"
               />
@@ -63,7 +62,7 @@ export function ContainerExample() {
       <div className="card text-light border border-0">
         <Image src={ImgbanerDown} className="img" alt="banner" />
       </div>
-    </Container>
+      </>
+
   );
 }
-

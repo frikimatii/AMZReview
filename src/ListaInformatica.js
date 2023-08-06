@@ -1,5 +1,16 @@
 export const dataInformatica = [
   {
+    id: 13,
+    titulo: "Noorio Cámara de seguridad B210 para exteriores",
+    producto: "La cámara de seguridad Noorio B210 es una opción confiable para la vigilancia en exteriores. Con una resolución 2K y visión nocturna a color, ofrece un video mucho más nítido que la resolución 1080P, lo que la hace ideal para leer matrículas e identificar rostros de personas. Alimentada por una batería incorporada y conectada a través de Wi-Fi, esta cámara inalámbrica es fácil de instalar sin la molestia de cables, permitiendo su montaje en cualquier lugar, tanto en exteriores como interiores.",
+    info: "La cámara Noorio B210 cuenta con un foco integrado que se activa por movimiento, lo que asusta a los intrusos no deseados y ayuda a captar detalles importantes en visión de color. Almacena hasta 6000 imágenes en su almacenamiento local de 16 GB sin necesidad de suscripciones adicionales. Además, ofrece integración inteligente con Alexa para una seguridad manos libres. Puedes ver, escuchar y hablar a través de Echo para comunicarte con personas desde el extremo de la cámara.",
+    img: "https://m.media-amazon.com/images/I/41PfKC6hrFL._AC_SX466_.jpg",
+    linkAfiliado: "https://amzn.to/3rZdQJM",
+    review: "La cámara de seguridad Noorio B210 ha sido calificada con 4.1 estrellas sobre 5, basada en 2,365 calificaciones y 357 preguntas respondidas. Los usuarios han elogiado su nitidez de video en resolución 2K, así como su capacidad para capturar imágenes claras y a color durante la visión nocturna. La facilidad de instalación y ajuste con el soporte magnético también ha sido apreciada. Algunos usuarios valoran especialmente la opción de almacenamiento local de 16 GB sin costos adicionales. En general, es una cámara de seguridad confiable con una calificación positiva.",
+    pro: "Resolución 2K para un video más nítido\n- Foco integrado activado por movimiento\n- Alimentación por batería incorporada y conexión Wi-Fi\n- Almacenamiento local de 16 GB sin necesidad de suscripción\n- Integración con Alexa para una experiencia manos libres",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, la cámara de seguridad Noorio B210 es una opción atractiva para la vigilancia en exteriores. Su resolución 2K y visión nocturna a color ofrecen un video claro y detallado, mientras que el almacenamiento local de 16 GB proporciona una solución práctica y sin costos adicionales. Su facilidad de instalación con el soporte magnético y la integración con Alexa para una seguridad manos libres son características valoradas por los usuarios. Con una calificación de 4.1 estrellas, es una cámara confiable con comentarios positivos de los compradores."
+  },{
     id: 12,
     titulo: "HelloBaby Monitor de video para bebés con cámara y audio",
     producto: "El monitor de video HB32 de HelloBaby es una solución perfecta para vigilar a tu bebé.",

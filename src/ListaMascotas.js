@@ -1,5 +1,60 @@
 export const dataMascotas = [
   {
+    id: 15,
+    titulo: "Best Friends by Sheri The Original Calming Donut - Cama para gatos y perros con piel de pelo largo",
+    producto: "La cama Best Friends by Sheri The Original Calming Donut es una cama de alta calidad.",
+    info: "Esta cama para mascotas está confeccionada con piel sintética vegana y peluda, que recuerda al abrigo de piel de una madre. Además, presenta profundas grietas que permiten que las mascotas escarben, satisfaciendo su instinto natural. El diseño está disponible en colores naturales y se integra perfectamente en cualquier decoración de habitación. La parte inferior es resistente al agua y a la suciedad para evitar que las manchas lleguen a los pisos. Las fundas extraíbles de las camas de tamaño M a XL son lavables a máquina para facilitar el mantenimiento.",
+    img: "https://m.media-amazon.com/images/I/91OigUa0jlL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3YmiD3S",
+    review: "La cama Best Friends by Sheri The Original Calming Donut cuenta con una calificación de 4.6 estrellas sobre 5, basada en 68,806 calificaciones. Es considerada como la #1 más vendida en la categoría de Camas para Gatos, lo que demuestra su popularidad y satisfacción entre los dueños de mascotas. Muchos propietarios destacan la comodidad, la suavidad del material y el diseño acogedor que brinda a sus mascotas. Sin embargo, es importante tener en cuenta que las preferencias pueden variar según el tamaño y la raza de la mascota.",
+    pro: " Forma redonda y borde elevado para mayor sensación de seguridad\n- Relleno súper suave para aliviar el dolor articular y muscular\n- Piel sintética vegana y peluda que recuerda al abrigo de piel de una madre\n- Profundas grietas para satisfacer el instinto de escarbar de las mascotas\n- Diseño versátil y colores naturales que se adaptan a cualquier decoración",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, la cama Best Friends by Sheri The Original Calming Donut es una opción acogedora y reconfortante para perros y gatos que buscan un lugar para acurrucarse y descansar. Su forma redonda y borde elevado brindan una sensación de seguridad, mientras que el relleno suave ofrece alivio del dolor. Con su piel sintética vegana y diseño versátil, esta cama es popular entre los dueños de mascotas. Con una calificación de 4.6 estrellas y considerada como la más vendida en su categoría, es una opción confiable y cómoda para mimar a tu compañero peludo."
+  }, {
+    id: 14,
+    titulo: "PetSafe Kibble Chase - Juguete dispensador electrónico e interactivo para perros",
+    producto: "El PetSafe Kibble Chase es un juguete interactivo y dispensador para perros ",
+    info: "Este juguete es ideal para fomentar el juego activo, ya que los divertidos movimientos automáticos mantienen a los perros de todos los tamaños ocupados con un emocionante juego de persecución y recompensa. Además, sirve como una solución de alimentación lenta, ya que la abertura ajustable de la ventana te permite controlar la rapidez con la que se dispensan los alimentos, lo que ayuda a evitar la ingestión rápida de las golosinas.",
+    img: "https://m.media-amazon.com/images/I/81GX3OI6NeL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/45zIXu3",
+    review: "El PetSafe Kibble Chase tiene una calificación de 3.6 estrellas sobre 5, basada en 226 calificaciones. Aunque su calificación es menor en comparación con otros productos, muchos propietarios aprecian la estimulación y diversión que brinda a sus perros durante el tiempo de juego. Sin embargo, es importante tener en cuenta que la experiencia puede variar según la personalidad y preferencias individuales de cada perro.",
+    pro: "Estimula el tiempo de juego y la actividad física\n- Dispensa golosinas al azar para mantener el interés\n- Solución de alimentación lenta para perros que comen rápido\n- Construcción de plástico duradero y ruedas de goma resistentes\n- Modo de sueño para descanso después de 10 minutos de juego",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, el PetSafe Kibble Chase es una opción ideal para proporcionar estimulación y entretenimiento a tu perro durante el tiempo de juego. Su diseño interactivo y la dispensación aleatoria de golosinas mantienen a los perros activos y comprometidos. Con una capacidad para 1/2 taza de golosinas, es perfecto para controlar la alimentación lenta. Aunque su calificación promedio es de 3.6 estrellas, muchos propietarios han disfrutado de los beneficios que brinda este juguete a sus mascotas."
+  },{
+    id: 13,
+    titulo: "Purina Fancy Feast Gravy, Seafood Grilled Collection - Paquete de sabores surtidos de alimento húmedo para gatos, 3oz, 24 latas (1 paquete)",
+    producto: "El paquete Purina Fancy Feast Gravy, Seafood Grilled Collection ofrece una selección deliciosa.",
+    info: "Esta comida húmeda para gatos es 100% completa y equilibrada, diseñada específicamente para gatos adultos. Además de satisfacer los gustos de los felinos, proporciona las vitaminas y minerales esenciales necesarios para mantener su salud general. La textura tentadora del alimento y las salsas sabrosas hacen que sea una opción altamente atractiva para los gatos.",
+    img: "https://m.media-amazon.com/images/I/81K7YvcfLpL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3qmZMt5",
+    review: "El producto Purina Fancy Feast Gravy, Seafood Grilled Collection cuenta con una calificación de 4.7 estrellas sobre 5, basada en 79,903 calificaciones. Es el número uno más vendido en la categoría de Comida de Gato Enlatada, lo que indica su popularidad y aceptación entre los dueños de mascotas. Los gatos disfrutan de los sabores surtidos de mariscos y las salsas deliciosas, lo que hace que esta colección sea un favorito entre las opciones de alimentos húmedos.",
+    pro: "Selección variada de sabores de mariscos\n- Cortes tiernos de pescado y mariscos en salsas delicadas\n- Nutrición completa y equilibrada para gatos adultos\n- Textura tentadora y sabores irresistibles\n- Calidad y confianza de la marca Purina Fancy Feast",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, el paquete Purina Fancy Feast Gravy, Seafood Grilled Collection ofrece una experiencia culinaria excepcional para los gatos con su selección de sabores de mariscos y salsas sabrosas. Con una calificación de 4.7 estrellas y casi 80,000 calificaciones, es una opción altamente recomendada para satisfacer los gustos y necesidades de los gatos adultos. Este paquete de 24 latas de 3 oz garantiza que tu gato disfrutará de una nutrición completa y deliciosa en cada comida."
+  }, {
+    id: 12,
+    titulo: "SmartCat Pioneer Poste para arañazos, el mejor, Marrón",
+    producto: "El poste para arañazos SmartCat Pioneer es una opción duradera y de alta calidad .",
+    info: "Con una altura de 32 pulgadas, el poste permite que los gatos se estiren verticalmente, lo que les proporciona un estiramiento completo. Su diseño resistente y su base sólida eliminan la inclinación y el tambaleo, asegurando la estabilidad durante el uso.",
+    img: "https://m.media-amazon.com/images/I/61LsnH5NpzL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3QsZ1Jp",
+    review: "El poste SmartCat Pioneer ha recibido una calificación de 4.7 estrellas sobre 5, basada en 28,013 calificaciones. Los dueños de gatos elogian su durabilidad y efectividad para satisfacer las necesidades de rascado de sus mascotas. Destacan el material de sisal fibroso y duradero que atrae a los gatos y evita que dañen otros muebles.",
+    pro: "Ventajas del poste para arañazos SmartCat Pioneer:\n- Fabricado con sisal fibroso y duradero\n- Permite que los gatos se estiren completamente\n- Diseño resistente y base sólida\n- Inspirado naturalmente arañazos para satisfacer instintos felinos",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, el poste para arañazos SmartCat Pioneer es una opción ideal para dueños de gatos preocupados por el rascado de muebles. Con su diseño en Marrón, este poste ofrece una solución efectiva y duradera para satisfacer las necesidades naturales de rascado de los gatos. Con una calificación de 4.7 estrellas y miles de calificaciones positivas, es un producto altamente recomendado por dueños de gatos satisfechos."
+  }, {
+    id: 11,
+    titulo: "Carhartt Pet - Correa totalmente ajustable para perros, Carhartt Marrón/Latón Cepillado",
+    producto: "La correa totalmente ajustable para perros Carhartt es una opción duradera y resistente.",
+    info: "La correa tiene una zona elástica de control de golpes que proporciona flexibilidad y facilita la sacudida estática entre el perro y el propietario. Además, cuenta con un mango forrado para mayor comodidad y un mango inferior para un mayor control del perro. El cierre de garra de metal resistente es apto para guantes, y el anillo en D de metal ranurado permite opciones de fijación ajustables.",
+    img: "https://m.media-amazon.com/images/I/81A9eMrkNsL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3OkJZmB",
+    review: "La correa para perros Carhartt ha recibido una calificación de 4.7 estrellas sobre 5, basada en 4,824 calificaciones. Los dueños de perros elogian la calidad y durabilidad de esta correa. Destacan su capacidad para manejar perros ansiosos y su diseño reflectante que aumenta la seguridad durante los paseos nocturnos.",
+    pro: " Totalmente ajustable para un ajuste cómodo\n- Zona elástica de control de golpes para flexibilidad\n- Tejido de lona de pato con costuras reflectantes\n- Mango forrado para mayor comodidad\n- Cierre de garra de metal resistente y anillo en D ajustable",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, la correa para perros Carhartt es una opción confiable para el entrenamiento y manejo de perros. Con su diseño en Carhartt Marrón/Latón Cepillado, esta correa ofrece durabilidad, ajustabilidad y mayor visibilidad para paseos seguros. Con una calificación de 4.7 estrellas y miles de calificaciones positivas, es una correa recomendada por dueños de perros satisfechos."
+  }, {
     id: 10,
     titulo: "Wickedbone Hueso inteligente",
     producto: "Wickedbone es un juguete interactivo y automático diseñado para perros, cachorros y gatos.",

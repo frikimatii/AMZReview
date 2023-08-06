@@ -3,6 +3,7 @@ import {AutoLayoutExample} from "./CardProduc"
 import {AutoLayoutExample1} from "./CardProduc1"
 import {AutoLayoutExample2} from "./CardProduc2"
 import {AutoLayoutExample3} from "./CardProduc3"
+import {AutoLayoutExample4} from "./CardProduc4"
 
 
 
@@ -31,6 +32,12 @@ export function Acordeon() {
         <Accordion.Header className="p-3 ">Hogar</Accordion.Header>
         <Accordion.Body>
             <AutoLayoutExample3/>
+        </Accordion.Body>
+      </Accordion.Item>
+      <Accordion.Item eventKey="4" id='acordeon5'>
+        <Accordion.Header className="p-3 ">Belleza</Accordion.Header>
+        <Accordion.Body>
+            <AutoLayoutExample4/>
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>

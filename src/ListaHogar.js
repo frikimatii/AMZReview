@@ -1,5 +1,49 @@
 export const dataHogar = [
   {
+    id: 24,
+    titulo: "Juego de utensilios de cocina Calphalon de acero inoxidable clásicos, 10 piezas, Plateado",
+    producto: "El juego de utensilios de cocina Calphalon de acero inoxidable clásicos incluye 10 piezas esenciales para cocinar.",
+    info: "Las asas largas de acero inoxidable se mantienen frescas en la estufa, lo que proporciona un agarre cómodo y seguro durante la cocción. El juego también presenta prácticas marcas de medición, boquillas de vertido y cubiertas de colado para cocinar con eficiencia. Es apto para lavavajillas y para usar en el horno hasta 450 grados F.",
+    img: "https://m.media-amazon.com/images/I/71nRS2kHHtL._AC_SX569_.jpg",
+    linkAfiliado: "https://amzn.to/45dVEdJ",
+    review: "El juego de utensilios de cocina Calphalon ha recibido una calificación de 4.5 estrellas sobre 5, basada en 3,877 calificaciones. Los compradores elogian la calidad y el rendimiento de este juego de utensilios de acero inoxidable. Destacan su durabilidad, capacidad de calentamiento uniforme y diseño práctico. Los usuarios también aprecian la garantía de por vida que ofrece la marca Calphalon.",
+    pro: "10 piezas esenciales para cocinar\n- Base de aluminio para calentamiento uniforme\n- Asas largas de acero inoxidable que se mantienen frescas\n- Prácticas marcas de medición y boquillas de vertido\n- Apto para lavavajillas y horno",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, el juego de utensilios de cocina Calphalon de acero inoxidable clásicos es una opción confiable y duradera para cualquier cocina. Con su diseño en color plateado, este juego ofrece un rendimiento excepcional en la cocción y presenta características prácticas para facilitar la preparación de alimentos. Con una calificación de 4.5 estrellas y más de 3,000 calificaciones, es un juego de utensilios apreciado y recomendado por los compradores."
+  }, {
+    id: 23,
+    titulo: "Amazon Basics Juego de utensilios de cocina antiadherentes, 8 piezas, color negro",
+    producto: "El juego de utensilios de cocina antiadherentes de 8 piezas de Amazon Basics.",
+    info: "Los utensilios están fabricados con aluminio y cuentan con un revestimiento antiadherente que facilita tanto la cocción como la limpieza. El juego está libre de BPA y presenta cómodas asas suaves al tacto que se mantienen frescas durante el uso. Las tapas de vidrio son ventiladas para permitir la salida del vapor.",
+    img: "https://m.media-amazon.com/images/I/715qOOqdKNL._AC_SX569_.jpg",
+    linkAfiliado: "https://amzn.to/44WwEYu",
+    review: "El juego de utensilios de cocina ha recibido una calificación de 4.5 estrellas sobre 5, basada en 53,157 calificaciones. Los compradores elogian la calidad y eficacia de los utensilios antiadherentes. También destacan su diseño moderno y las tapas de vidrio que permiten supervisar la cocción sin necesidad de destapar. Los usuarios valoran positivamente su versatilidad y durabilidad.",
+    pro: "8 piezas esenciales para la cocina\n- Revestimiento antiadherente que facilita la cocción y limpieza\n- Cuerpo de aluminio para calentamiento uniforme\n- Asas suaves al tacto que se mantienen frescas\n- Tapas de vidrio ventiladas para liberar el vapor",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, el Amazon Basics Juego de utensilios de cocina antiadherentes de 8 piezas es una opción práctica y funcional para cualquier cocina. Con su diseño en color negro, las piezas son fáciles de limpiar y ofrecen un calentamiento uniforme para una cocción eficiente. Con una calificación de 4.5 estrellas y más de 53,000 calificaciones, es un juego de utensilios confiable y popular entre los compradores."
+  },{
+    id: 22,
+    titulo: "KitchenAid KSM150PSAC Artisan Series - Batidora de pie",
+    producto: "La KitchenAid KSM150PSAC Artisan Series es una batidora de pie versátil.",
+    info: "La batidora presenta un elegante acabado en color Aguamarina que le agrega un toque de estilo a tu cocina. Cuenta con un potente motor de 325 vatios que proporciona suficiente potencia para mezclar hasta 9 tazas de harina con facilidad. El tazón está hecho de acero inoxidable y tiene un práctico mango para un manejo más cómodo.",
+    img: "https://m.media-amazon.com/images/I/71KiX7LRTML._AC_SX569_.jpg",
+    linkAfiliado: "https://amzn.to/43Z1Wgi",
+    review: "La KitchenAid KSM150PSAC Artisan Series ha recibido una calificación de 4.8 estrellas sobre 5, basada en 16,476 calificaciones. Esta batidora es muy popular y se posiciona como la #1 más vendida en la categoría de Batidoras de Pie. Los usuarios han elogiado su potente motor y la capacidad de ajustar la velocidad según sus necesidades. Además, destacan la durabilidad y calidad de construcción de la batidora. En general, los compradores están satisfechos con su desempeño y diseño.",
+    pro: " Capacidad de 5 cuartos (4.7 litros)\n- 10 velocidades para mayor versatilidad\n- Elegante acabado en color Aguamarina\n- Motor potente de 325 vatios\n- Tazón de acero inoxidable con mango para un manejo cómodo",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, la KitchenAid KSM150PSAC Artisan Series es una batidora de pie de alta calidad y rendimiento. Con su capacidad de 5 cuartos, potente motor y acabado elegante, es una excelente opción para la preparación de diversas recetas en la cocina. Con una calificación de 4.8 estrellas y más de 16,000 calificaciones positivas, es una batidora confiable y popular entre los usuarios."
+  },{
+    id: 21,
+    titulo: "Libman Tornado Spin Mop System Plus",
+    producto: "El Libman Tornado Spin Mop System Plus es un sistema todo en uno para la limpieza de suelos.",
+    info: "El Libman Tornado Spin Mop System Plus es una solución práctica y eficiente para la limpieza de suelos. Su sistema de fregona giratoria y cubo facilita la eliminación del exceso de agua del cabezal de la fregona, lo que garantiza una limpieza efectiva sin dejar marcas de agua en los pisos. Los cabezales de fregona de microfibra son lavables y reutilizables, lo que permite mantenerlos limpios para enfrentar cualquier desastre en el hogar. El cubo de fregona tiene capacidad para hasta 2 galones de agua y cuenta con una práctica boquilla de vertido. El mango de acero con agarre ofrece una cómoda experiencia de limpieza. Este trapeador es especialmente adecuado para la limpieza de pisos de madera dura y otros tipos de superficies.",
+    img: "https://m.media-amazon.com/images/I/71nLtIzLTIL._AC_SX569_.jpg",
+    linkAfiliado: "https://amzn.to/3Qrou64",
+    review: "El Libman Tornado Spin Mop System Plus ha recibido una calificación de 4.3 sobre 5 estrellas basada en 888 calificaciones. Los usuarios han elogiado su eficiencia y facilidad de uso, ya que evita el contacto con cabezales de fregona húmedos y facilita la limpieza. Los cabezales de fregona de microfibra han sido valorados positivamente por su capacidad para limpiar de manera efectiva y absorbente. La tecnología de giro para eliminar el exceso de agua también ha sido apreciada por dejar los pisos limpios y secos. En general, es una opción confiable y bien valorada para la limpieza de suelos.",
+    pro: "Sistema todo en uno para la limpieza de suelos\n- Incluye trapeador de piso y cubo con escurridor\n- Cabezales de fregona de microfibra lavables y reutilizables\n- Tecnología de giro para eliminar el exceso de agua\n- Ideal para la limpieza de pisos de madera dura y otras superficies",
+    contra: "No hay información incorrecta del producto reportada",
+    resumen: "En resumen, el Libman Tornado Spin Mop System Plus es una solución completa y eficiente para la limpieza de suelos. Su diseño con tecnología de giro permite una limpieza efectiva sin tocar cabezales de fregona húmedos. Los cabezales de fregona de microfibra lavables y reutilizables son una ventaja adicional. Con una calificación de 4.3 estrellas, es una opción bien valorada por los usuarios que buscan una forma más cómoda y efectiva de limpiar sus pisos."
+  },{
     id: 20,
     titulo: "Amazon Basics: Tostadora de 2 ranuras",
     producto: "Esta tostadora de Amazon Basics está diseñada para tostar una o dos rebanadas de pan a la vez. Cuenta con 6 ajustes de sombra que se adaptan a las preferencias individuales de tostado.",
