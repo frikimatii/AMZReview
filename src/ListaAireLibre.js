@@ -1,5 +1,85 @@
 export const dataAireLibre = [
   {
+    id: 19,
+    titulo: "Alvantor Tienda de campaña para ducha, vestuario, inodoro al aire libre",
+    producto: "La tienda de campaña Alvantor es una solución versátil para actividades al aire libre. ",
+    info: "Viene con accesorios que incluyen 8 estacas, 4 guylines y 4 sacos de arena para mayor estabilidad en días ventosos. Además, cuenta con un piso de polietileno que ayuda a mantener limpio el interior. Puedes utilizar esta tienda en la playa, en campamentos, estudios fotográficos, clases de baile y más. Es fácil de transportar y guardar, ya que viene con una bolsa de almacenamiento portátil y compacta.",
+    img: "https://m.media-amazon.com/images/I/81GT7t5hHKS._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3r67jwC",
+    review: "Con una calificación promedio de 4.5 estrellas basada en 546 calificaciones, la tienda Alvantor ha recibido una buena respuesta por parte de los usuarios. Ofrece versatilidad para diferentes actividades al aire libre y está diseñada para resistir condiciones de viento. Sin embargo, ten en cuenta que el costo de envío puede ser relativamente alto en algunos casos.",
+    pro: "Ventajas:\n- Versátil, sirve como vestuario, inodoro o refugio.\n- Material duradero con revestimiento de teflón.\n- Accesorios incluidos para estabilidad.\n- Fácil de transportar y almacenar en su bolsa compacta.",
+    contra: "Desventajas:\n- Costo de envío puede ser elevado en algunos casos.\n- Capacidad de ocupación limitada a una persona.",
+    resumen: "En resumen, la tienda de campaña Alvantor es una solución práctica y versátil para actividades al aire libre. Ofrece un espacio privado para cambiar, ducharse o usar el baño, y su durabilidad la hace adecuada para diversas condiciones. Si buscas comodidad y privacidad en tus aventuras al aire libre, esta tienda podría ser la elección adecuada."
+  }
+  ,{
+    id: 18,
+    titulo: "Parrilla de Carbón Portátil Uten",
+    producto: "Parrilla Plegable para Campamento y Exteriores",
+    info: "La parrilla de carbón portátil Uten es ideal para tus aventuras al aire libre. Con su diseño plegable, es compacta y ligera, lo que la hace fácil de transportar y almacenar. Está fabricada con acero inoxidable de alta calidad, lo que la hace resistente al óxido y duradera. Su fácil montaje y limpieza la convierten en la herramienta perfecta para tus barbacoas en el jardín, camping, playa y más. Adecuada para reuniones de 3 a 7 personas.",
+    img: "https://m.media-amazon.com/images/I/715K3jXDF+L._AC_SX522_.jpg",
+    linkAfiliado: "https://amzn.to/45IHCl3",
+    review: "Los usuarios han calificado esta parrilla con 4.0 estrellas. Destacan su portabilidad, facilidad de uso y durabilidad. Es perfecta para cocinar una variedad de alimentos al aire libre y disfrutar de deliciosas barbacoas con amigos y familiares.",
+    pro: "Ventajas:\n- Diseño plegable y portátil.\n- Fabricada con acero inoxidable resistente.\n- Fácil de montar y limpiar.\n- Control de flujo de aire para una cocción uniforme.\n- Apta para diversas ocasiones al aire libre.",
+    contra: "Desventajas:\n- No incluye accesorios adicionales.\n- El tamaño puede ser limitante para grandes reuniones.\n- Se recomienda utilizarla en áreas bien ventiladas debido al carbón.",
+    resumen: "En resumen, la parrilla de carbón portátil Uten es la compañera perfecta para tus aventuras al aire libre. Su diseño plegable y resistente, junto con su facilidad de uso, la convierten en una excelente opción para cocinar al aire libre. Ya sea en el camping, en la playa o en el jardín, esta parrilla te permitirá disfrutar de deliciosas barbacoas en compañía de amigos y familiares."
+  }
+  ,{
+    id: 17,
+    titulo: "Exterminador de Insectos al Aire Libre con Sensor de Luz",
+    producto: "Exterminador de Mosquitos y Trampa para Moscas",
+    info: "Este exterminador de insectos al aire libre es perfecto para mantener tu hogar y jardín libres de mosquitos y moscas. Utiliza métodos físicos para eliminar los insectos voladores, sin necesidad de pesticidas ni productos químicos. Ideal para usar en patios, balcones, jardines, y más.",
+    img: "https://m.media-amazon.com/images/I/71ViBBXkuEL._AC_SX522_.jpg",
+    linkAfiliado: "https://amzn.to/3qXkxfm",
+    review: "Los usuarios han calificado este exterminador con 4.4 estrellas, destacando su efectividad para mantener alejados a los insectos molestos. Elimina los insectos de forma segura y proporciona un entorno cómodo tanto en interiores como en exteriores.",
+    pro: "Ventajas:\n- Elimina mosquitos y moscas de forma efectiva.\n- Uso seguro sin pesticidas ni productos químicos.\n- Ideal para áreas al aire libre y jardines.\n- Diseño moderno y duradero.",
+    contra: "Desventajas:\n- Precio con envío e impuestos puede ser alto para algunos.\n- Requiere electricidad para funcionar.\n- Asegúrate de colocarlo en un lugar estratégico para una máxima eficacia.",
+    resumen: "En resumen, este exterminador de insectos al aire libre con sensor de luz es una solución efectiva y segura para mantener tu hogar y jardín libres de mosquitos y moscas. Su diseño moderno y duradero lo hace ideal para cualquier espacio al aire libre, proporcionando un entorno cómodo para ti y tu familia."
+  }
+  , {
+    id: 16,
+    titulo: "Casco Modular Phantom Aquatics",
+    producto: "Casco Modular de Cara Completa Phantom Aquatics",
+    info: "El Casco Modular de Cara Completa Phantom Aquatics es una elección versátil y segura para motociclistas que buscan comodidad y protección. Con su diseño modular y características de alta calidad, este casco ofrece una experiencia confiable en la carretera.",
+    img: "https://m.media-amazon.com/images/I/81SCUr5h8UL._AC_UX679_.jpg",
+    linkAfiliado: "https://amzn.to/45BEZkv",
+    review: "El Casco Modular de Cara Completa Phantom Aquatics es una combinación perfecta de funcionalidad y estilo. Su carcasa ultraligera de polímero ABS proporciona resistencia y flexibilidad, mientras que el sistema modular de 180 grados permite una fácil colocación y extracción. El protector solar integrado y el sistema de protección solar desplegable garantizan una conducción cómoda en diversas condiciones de iluminación. La correa de barbilla de liberación rápida aprobada por DOT ofrece seguridad adicional.",
+    pro: "- Diseño modular que facilita la colocación y extracción.\n- Protector solar integrado y sistema de protección solar desplegable.\n- Cumple con estándares de seguridad DOT y ECE.",
+    contra: "Puede requerir ajustes para adaptarse a todas las formas de cabeza.",
+    resumen: "El Casco Modular de Cara Completa Phantom Aquatics ofrece estilo, seguridad y comodidad en un solo producto. Su diseño modular y características de protección lo convierten en una excelente opción para motociclistas conscientes de su seguridad y estilo en sus viajes en carretera."
+  },{
+    id: 15,
+    titulo: "Napier Backroadz Truck Tent",
+    producto: "Tienda de Campaña Napier Backroadz para Camionetas",
+    info: "La tienda de campaña Napier Backroadz es perfecta para convertir la parte trasera de tu camioneta en un cómodo oasis de campamento. Diseñada para aventuras espontáneas, viajes a la montaña o días en la playa, esta tienda ofrece un amplio espacio interior y protección contra el clima.",
+    img: "https://m.media-amazon.com/images/I/51tG-B4yPSL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3P7C7Gw",
+    review: "La tienda de campaña Napier Backroadz es como llevar tu hogar contigo a donde quiera que vayas. Su fácil montaje y diseño espacioso la convierten en un refugio perfecto para dos adultos. La posibilidad de instalarla en la parte trasera de la camioneta agrega una capa adicional de seguridad y privacidad, mientras que las ventanas de malla y la entrada grande aseguran una excelente ventilación. No importa si estás haciendo un viaje por carretera improvisado, explorando la naturaleza o simplemente pasando tiempo al aire libre, esta tienda de campaña te brinda comodidad y versatilidad en un solo paquete.",
+    pro: " Fácil de montar y desmontar.\n- Amplio espacio interior con suelo cosido patentado.\n- Privacidad y protección contra el clima con las solapas de tormenta en ventanas y puerta.",
+    contra: " Puede requerir una camioneta compatible para su montaje, lo que limita su uso a ciertas personas.",
+    resumen: "La tienda de campaña Napier Backroadz es la solución ideal para quienes desean llevar su alojamiento consigo durante sus aventuras. Con su diseño espacioso, protección contra el clima y facilidad de montaje, te brinda la comodidad que necesitas en tus viajes por carretera, excursiones y momentos al aire libre."
+  }, {
+    id: 14,
+    titulo: "Estufa Portátil Flame King",
+    producto: "Estufa Portátil de Gas Butano y Propano Flame King",
+    info: "La estufa portátil Flame King es una excelente opción para cocinar al aire libre. Con su diseño duradero y versátil, es ideal para actividades como camping, mochilero y caza. Puede funcionar con cartuchos de butano de 8 oz o cilindros de propano de 16.4 oz (se venden por separado).",
+    img: "https://m.media-amazon.com/images/I/71jYScsEvAL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/45jWMNo",
+    review: "La estufa Flame King es mi compañera confiable en todas mis aventuras al aire libre. Su facilidad de uso y la capacidad de ajustar la intensidad de la llama hacen que cocinar al aire libre sea una experiencia placentera. Además, su diseño compacto y su capacidad para usar diferentes fuentes de combustible la convierten en una herramienta versátil que nunca falta en mi equipo. Ya sea en un campamento, una excursión de mochilero o una jornada de caza, la estufa Flame King siempre está lista para proporcionar calor y comodidad en cualquier entorno.",
+    pro: "Diseño duradero y portátil.\n- Funciona con cartuchos de butano y cilindros de propano.\n- Calor ajustable para controlar la intensidad de la llama.",
+    contra: " La calificación promedio podría indicar aspectos a mejorar, pero no se especifican en la descripción.",
+    resumen: "La estufa portátil Flame King es una herramienta esencial para tus aventuras al aire libre. Su construcción duradera, portabilidad y capacidad para usar múltiples fuentes de combustible la convierten en una opción versátil. Ideal para cocinar en campamentos, mochileros y actividades al aire libre."
+    }, {
+    id: 13,
+    titulo: "Tienda Coleman Sundome",
+    producto: "Tienda Coleman Sundome para Campamento y Senderismo",
+    info: "La tienda Coleman Sundome es una opción ideal para campamento y senderismo. Con varias opciones de tamaño y colores, esta tienda ofrece protección contra el agua gracias a su sistema WeatherTec. Cuenta con características como ventilación mejorada, bolsillos de almacenamiento y puerto E para acceso a energía eléctrica.",
+    img: "https://m.media-amazon.com/images/I/71HmL4kzLrL._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3YJBKoW",
+    review: "La tienda Coleman Sundome ha obtenido una impresionante calificación de 4.7 sobre 5 estrellas con más de 44,000 calificaciones. Los usuarios elogian su fácil montaje, sistema WeatherTec que mantiene el interior seco, y ventilación mejorada para una estancia fresca y cómoda. Los bolsillos de almacenamiento añaden conveniencia.",
+    pro: "Fácil montaje con diferentes tamaños disponibles.\n- Sistema WeatherTec para protección contra el agua.\n- Ventilación mejorada para una estancia cómoda.\n- Bolsillos de almacenamiento para mantener objetos esenciales al alcance.",
+    contra: "La descripción del producto no menciona ninguna desventaja significativa.",
+    resumen: "La tienda Coleman Sundome te ofrece un refugio confiable y cómodo para tus aventuras al aire libre. Con características como protección contra el agua y ventilación mejorada, esta tienda es perfecta para campamentos y senderismo, brindándote un espacio acogedor en la naturaleza."
+    }, {
     id: 12,
     titulo: "Greenworks motosierra inalámbrica de 24 V y 10 pulgadas",
     producto: "La motosierra inalámbrica de Greenworks es una herramienta versátil que funciona con una batería de iones de litio de 24 V..",

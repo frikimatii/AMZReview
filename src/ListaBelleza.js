@@ -1,5 +1,64 @@
 export const dataBelleza = [
- { id: 16,
+  {
+    id: 21,
+    titulo: "CARSLAN Lápiz Labial Cremoso Hidratante",
+    producto: "Lápiz labial de alta pigmentación y larga duración en el color Rojo Vintage (07)",
+    info: "El lápiz labial CARSLAN ofrece un color vibrante y duradero para tus labios, proporcionando un aspecto impresionante. Su fórmula está enriquecida con ingredientes hidratantes como el aceite de macadamia, vitamina E y aceite de semilla de jojoba, lo que mantiene tus labios hidratados y nutridos.",
+    img: "https://m.media-amazon.com/images/I/51Thcgt-mfL._SX466_.jpg",
+    linkAfiliado: "https://amzn.to/3ZhWZOY",
+    review: "Este lápiz labial ha recibido una calificación promedio de 4.7 estrellas según 31 calificaciones. Los usuarios elogian su intensidad de color y su durabilidad. Además, la fórmula hidratante hace que sea cómodo de llevar durante todo el día sin resecar los labios.",
+    pro: "Ventajas:\n- Alta pigmentación para un color vibrante.\n- Fórmula hidratante con aceites naturales.\n- Aplicación suave y uniforme.\n- Disponible en varios tonos para adaptarse a todos los tonos de piel.\n- Sensación ligera y cómoda en los labios.",
+    contra: "Desventajas:\n- El costo de envío a Argentina es relativamente alto.\n- Algunos usuarios pueden preferir otros acabados además del cremoso.",
+    resumen: "En resumen, el lápiz labial CARSLAN es una excelente opción si buscas labios con un color intenso y duradero, además de mantenerlos hidratados. Su amplia gama de tonos se adapta a diferentes ocasiones y estilos. A pesar del costo de envío, este lápiz labial es una inversión para realzar tu belleza y destacar tus labios de manera elegante."
+  }
+  ,{
+    id: 20,
+    titulo: "Lord & Berry BOOST Treatment Mascara",
+    producto: "Máscara de Tratamiento para Pestañas Más Fuertes y Saludables",
+    info: "La máscara de tratamiento BOOST de Lord & Berry se desliza con solo una pasada para cubrir uniformemente y alisar tus pestañas. Contiene una fórmula acondicionadora que aumenta la longitud y el grosor de las pestañas, manteniéndolas más fuertes que nunca.",
+    img: "https://m.media-amazon.com/images/I/51KgJ26zHSL._SY445_SX342_QL70_FMwebp_.jpg",
+    linkAfiliado: "https://amzn.to/3Px6eaE",
+    review: "Esta máscara tiene una calificación promedio de 4.4 estrellas según 10 calificaciones. Su exclusivo aplicador con forma de pez separa cada pestaña sin crear grumos mientras las curva. La fórmula es hipoalergénica y está formulada con ceras naturales para promover el crecimiento saludable de las pestañas y prevenir su caída. Es parte de la colección Black Wardrobe de Lord & Berry, conocida por proporcionar un volumen sensacional.",
+    pro: "Ventajas:\n- Aplicador único que separa y curva las pestañas.\n- Fórmula hipoalergénica con ingredientes naturales.\n- Promueve el crecimiento saludable de las pestañas.\n- Forma parte de la línea de productos cruelty-free de Lord & Berry.",
+    contra: "Desventajas:\n- El costo por onza es relativamente alto.\n- El envío a Argentina tiene un costo adicional.",
+    resumen: "En resumen, la máscara de tratamiento Lord & Berry BOOST Treatment es una excelente opción para quienes desean pestañas más largas, gruesas y saludables. Su aplicador especial y fórmula hipoalergénica la hacen adecuada para la mayoría de las personas. Si buscas realzar la belleza de tus pestañas con un producto de alta calidad, esta máscara podría ser la elección perfecta."
+  }
+  ,{
+    id: 19,
+    titulo: "Waterpik Sonic-Fusion Professional",
+    producto: "Cepillo de Dientes e Irrigador Dental 2 en 1",
+    info: "El cepillo de dientes Waterpik Sonic-Fusion Professional combina la potencia de un cepillo de dientes eléctrico sónico avanzado con la eficacia probada del irrigador dental Waterpik. Este dispositivo ofrece 3 modos: cepillado, uso de hilo dental o ambas funciones al mismo tiempo, lo que facilita el cuidado bucal completo. Es clínicamente probado hasta 2 veces más eficaz que el cepillado y el hilo dental tradicionales para reducir la placa y mejorar la salud de las encías.",
+    img: "https://m.media-amazon.com/images/I/51MCLs4g2EL._SX466_.jpg",
+    linkAfiliado: "https://amzn.to/3rcwU75",
+    review: "El cepillo de dientes e irrigador dental Waterpik Sonic-Fusion Professional ha recibido una calificación promedio de 4.5 estrellas por parte de 14,657 usuarios. Este producto es altamente recomendado por dentistas, con un respaldo del 90% de los profesionales dentales. Waterpik es la primera marca de irrigador dental en ganar el sello de aceptación de la Asociación Dental Americana (ADA).",
+    pro: "Ventajas:\n- Combinación de cepillo de dientes e irrigador dental.\n- 3 modos de uso para un cuidado bucal completo.\n- Clínicamente probado y recomendado por dentistas.\n- Incluye temporizador de cepillado y múltiples ajustes de presión para el irrigador dental.",
+    contra: "Desventajas:\n- Costo inicial relativamente alto.\n- Requiere recarga eléctrica periódica.\n- El irrigador dental puede ser voluminoso para llevar en viajes.",
+    resumen: "En resumen, el Waterpik Sonic-Fusion Professional es una solución integral para el cuidado bucal. Este dispositivo combina las funciones de un cepillo de dientes eléctrico y un irrigador dental en un solo producto. Con respaldo de profesionales dentales y calificaciones positivas de usuarios, ofrece una limpieza eficaz y conveniente. Si buscas mejorar tu rutina de cuidado bucal, esta podría ser una excelente opción."
+  }
+  , {
+    id: 18,
+    titulo: "Braun Silk-épil 9 9-720: Depiladora en Húmedo y Seco para Mujer",
+    producto: "Depiladora Braun Silk-épil 9 9-720, depilación para mujer, en húmedo y seco, afeitadora y recortadora para mujer, inalámbrica y recargable",
+    info: "La Braun Silk-épil 9 9-720 es una depiladora versátil diseñada para una depilación eficiente y cómoda. Con su tecnología Micro-Grip, afeitadora suave y función en húmedo y seco, esta depiladora ofrece una experiencia completa de cuidado personal.",
+    img: "https://m.media-amazon.com/images/I/61svV-udTXL._SY355_.jpg",
+    linkAfiliado: "https://amzn.to/45BxiL2",
+    review: "La Braun Silk-épil 9 9-720 ha obtenido una calificación de 4.4 sobre 5 estrellas con más de 7,500 calificaciones. Usuarios elogian su tecnología Micro-Grip que elimina el vello en una sola pasada, la opción de afeitado suave para áreas sensibles, y su adaptabilidad a diferentes zonas del cuerpo. La tecnología SensoSmart que guía la depilación con una luz roja también es destacada por proporcionar una experiencia precisa y cómoda. Algunos compradores mencionan que la función en húmedo y seco es especialmente conveniente y que la tapa de masaje de alta frecuencia reduce la sensación de dolor.",
+    pro: "Ventajas:\n- Depilación eficiente con tecnología Micro-Grip.\n- Opción de afeitado suave para áreas sensibles.\n- Adaptabilidad a contornos del cuerpo.\n- Función en húmedo y seco para mayor comodidad.\n- Tecnología SensoSmart para una depilación precisa.",
+    contra: "Desventajas:\n- No se mencionan desventajas relevantes en las opiniones de los usuarios.",
+    resumen: "La Braun Silk-épil 9 9-720 es una depiladora versátil y completa que ofrece una depilación eficiente y cómoda tanto en húmedo como en seco. Con tecnologías como Micro-Grip y SensoSmart, y opciones como afeitado suave y adaptabilidad a contornos, es una herramienta confiable para mantener la piel suave y libre de vello."
+    }, {
+    id: 17,
+    titulo: "Braun Maquinilla de afeitar eléctrica para hombres, serie 5 5050csl",
+    producto: "La Braun Maquinilla de afeitar eléctrica para hombres de la serie 5 5050cs.",
+    info: "Esta afeitadora cuenta con cuchillas flexibles que se adaptan a los contornos faciales, proporcionando un afeitado eficiente y suave. Incluye un accesorio para recortadora de precisión y un accesorio para el cuerpo de la mampara, lo que la hace adecuada para diferentes necesidades de aseo.",
+    img: "https://m.media-amazon.com/images/I/81tb7vcfIqL._SY450_.jpg",
+    linkAfiliado: "https://amzn.to/47KptEQ",
+    review: "a Braun Maquinilla de afeitar eléctrica serie 5 5050cs es una excelente opción para aquellos hombres que buscan un afeitado cómodo y versátil. Esta afeitadora destaca por su diseño impermeable, que permite usarla tanto en afeitados húmedos como secos, brindando una gran flexibilidad en la rutina de cuidado personal. Una de las características destacables de esta afeitadora es su adaptabilidad a los contornos faciales gracias a sus 3 cuchillas flexibles. Esto se traduce en un afeitado suave y eficiente, con la capacidad de llegar a áreas difíciles sin causar irritaciones ni molestias en la piel. Además, su fácil manejo y agarre suave hacen que el proceso de afeitado sea cómodo y sin esfuerzo. La inclusión de una recortadora de barba y aseo corporal es un valor añadido a esta afeitadora. Esta versatilidad la convierte en una herramienta completa para el cuidado personal masculino, permitiendo dar forma a la barba y mantener un aseo adecuado con un solo dispositivo",
+    pro: " Afeitado cómodo en húmedo y seco\n- Recortadora de barba y aseo corporal incluida\n- Cuchillas flexibles para un afeitado suave\n- Accesorios para diferentes necesidades de aseo\n- Mango ergonómico para un manejo sencillo",
+    contra: " No se mencionan desventajas en la descripción.",
+    resumen: "En resumen, la Braun Maquinilla de afeitar eléctrica serie 5 5050cs es una afeitadora versátil y cómoda que proporciona un afeitado suave tanto en húmedo como en seco. Con cuchillas flexibles, accesorios para diferentes necesidades de aseo y una batería de larga duración, es una opción conveniente para el cuidado personal masculino."
+  }
+  ,{ id: 16,
   titulo: "NYX PROFESSIONAL MAKEUP Face Freezie - Imprimación refrescante + hidratante, maquillaje 10 en 1 para preparar el cuidado de la piel",
 producto: "NYX PROFESSIONAL MAKEUP Face Freezie es una imprimación refrescante facial y crema hidratante en uno solo.",
   info: "Esta imprimación y crema hidratante facial 10 en 1 ofrece una sensación de enfriamiento y múltiples beneficios. Prepara la piel, la deja uniforme, suave, minimiza los poros, tensa, hidrata, esculpe y suaviza la piel.",

@@ -1,8 +1,31 @@
 export const dataInformatica = [
   {
+    id: 15,
+    titulo: "Official Luna Wireless Controller",
+    producto: "El Official Luna Wireless Controller",
+    info: "Este controlador se conecta de varias formas, incluyendo WiFi, Bluetooth y USB-C. Cuenta con botones y joysticks de alta calidad para una experiencia de juego precisa y receptiva. También es compatible con la asistente de voz Alexa, lo que te permite lanzar juegos con comandos de voz. El controlador incluye dos baterías AA Amazon Basics y una guía de configuración.",
+    img: "https://m.media-amazon.com/images/I/51qbcWzHSML._AC_SY450_.jpg",
+    linkAfiliado: "https://amzn.to/3RdHrtk",
+    review: "Con una calificación promedio de 4.2 estrellas basada en 10,299 calificaciones, este controlador ha sido bien recibido por los usuarios. Los clientes aprecian su compatibilidad con una variedad de dispositivos y su capacidad para ofrecer una experiencia de juego sin problemas en Luna. Sin embargo, ten en cuenta que el costo de envío puede ser relativamente alto para algunos destinos.",
+    pro: "Ventajas:\n- Compatible con una amplia gama de dispositivos, incluyendo PC, Mac, Fire TV y más.\n- Función de baja latencia para una experiencia de juego suave.\n- Soporte para la asistente de voz Alexa.\n- Incluye baterías y guía de configuración.",
+    contra: "Desventajas:\n- El costo de envío puede ser alto en algunos casos.\n- No es compatible con consolas de juegos tradicionales como PlayStation o Xbox.",
+    resumen: "En resumen, el Official Luna Wireless Controller es una excelente opción para aquellos que desean disfrutar de los juegos en Luna y otros dispositivos con comodidad y precisión. Con su amplia compatibilidad, funciones de baja latencia y soporte para Alexa, es una herramienta versátil para los amantes de los videojuegos."
+  }
+  ,{
+    id: 14,
+    titulo: "Auriculares Inalámbricos Sony WH-CH520",
+    producto: "Auriculares Inalámbricos Bluetooth Sony WH-CH520",
+    info: "Los Auriculares Inalámbricos Bluetooth Sony WH-CH520 ofrecen comodidad y calidad de sonido excepcionales para tus preferencias musicales. Con características personalizadas y una duración de batería impresionante, son una elección ideal para escuchar música durante todo el día.",
+    img: "https://m.media-amazon.com/images/I/41lArSiD5hL._AC_SX466_.jpg",
+    linkAfiliado: "https://amzn.to/47LjNdy",
+    review: "Los Auriculares Inalámbricos Sony WH-CH520 te sumergen en una experiencia auditiva personalizada. La función EQ Custom en la aplicación Sony | Headphones Connect adapta el sonido a tus preferencias musicales. Ya sea que estés escuchando música pop enérgica o baladas suaves, estos auriculares ofrecen un sonido nítido y equilibrado. Son cómodos incluso para uso prolongado, con almohadillas suaves y una diadema adicional que garantiza un ajuste agradable.",
+    pro: " Función EQ Custom para personalizar el sonido.\n- Diseño ligero y cómodo para uso prolongado.\n- Conexión multipunto para mayor versatilidad.",
+    contra: " Puede haber interferencia ocasional en áreas con muchas señales inalámbricas.",
+    resumen: "Los Auriculares Inalámbricos Sony WH-CH520 combinan calidad de sonido excepcional y comodidad en un solo paquete. Con personalización de sonido, larga duración de batería y diseño cómodo, son la elección perfecta para los amantes de la música que desean una experiencia auditiva de alta calidad en cualquier lugar."
+    }, {
     id: 13,
     titulo: "Noorio Cámara de seguridad B210 para exteriores",
-    producto: "La cámara de seguridad Noorio B210 es una opción confiable para la vigilancia en exteriores. Con una resolución 2K y visión nocturna a color, ofrece un video mucho más nítido que la resolución 1080P, lo que la hace ideal para leer matrículas e identificar rostros de personas. Alimentada por una batería incorporada y conectada a través de Wi-Fi, esta cámara inalámbrica es fácil de instalar sin la molestia de cables, permitiendo su montaje en cualquier lugar, tanto en exteriores como interiores.",
+    producto: "La cámara de seguridad Noorio B210 es una opción confiable para la vigilancia en exteriores.",
     info: "La cámara Noorio B210 cuenta con un foco integrado que se activa por movimiento, lo que asusta a los intrusos no deseados y ayuda a captar detalles importantes en visión de color. Almacena hasta 6000 imágenes en su almacenamiento local de 16 GB sin necesidad de suscripciones adicionales. Además, ofrece integración inteligente con Alexa para una seguridad manos libres. Puedes ver, escuchar y hablar a través de Echo para comunicarte con personas desde el extremo de la cámara.",
     img: "https://m.media-amazon.com/images/I/41PfKC6hrFL._AC_SX466_.jpg",
     linkAfiliado: "https://amzn.to/3rZdQJM",

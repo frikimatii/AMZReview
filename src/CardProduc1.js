@@ -21,7 +21,7 @@ import React, { useState } from "react";
 import { Nav, Dropdown } from "react-bootstrap";
 
 export function AutoLayoutExample1() {
-  const [selectedProduct2, setSelectedProduct2] = useState(null);
+  const [ ,setSelectedProduct2] = useState(null);
 
   const handleProductSelect2 = (productId) => {
     setSelectedProduct2(productId);

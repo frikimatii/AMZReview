@@ -1,5 +1,75 @@
 export const dataHogar = [
   {
+    id: "null",
+    titulo: "Exprimidor de Jugo Hamilton Beach de 2 Velocidades con Boca Grande",
+    producto: "Este exprimidor de jugo Hamilton Beach es la herramienta perfecta para disfrutar de jugos frescos",
+    info: "El exprimidor cuenta con una boca grande de 3 pulgadas que te permite agregar alimentos enteros sin necesidad de cortarlos previamente. Esto ahorra tiempo en la preparación. Su potente motor de 800 vatios y el colador de acero inoxidable aseguran un máximo rendimiento de jugo, produciendo menos residuos y más sabor. Además, es fácil de limpiar gracias al cepillo de limpieza incluido y las partes aptas para lavavajillas.",
+    img: "https://m.media-amazon.com/images/I/61BWQIi8-NS._AC_SX569_.jpg",
+    linkAfiliado: "https://amzn.to/3RfPdmO",
+    review: "Este exprimidor Hamilton Beach ha recibido una calificación promedio de 4.4 estrellas basada en 35,831 calificaciones. Los usuarios elogian su capacidad para hacer jugo rápidamente, su boca grande que ahorra tiempo y su facilidad de limpieza. También valoran la garantía limitada de 3 años ofrecida por Hamilton Beach.",
+    pro: "Ventajas:\n- Prepara jugo fresco y saludable en segundos.\n- Boca grande para alimentos enteros.\n- Potente motor de 800 vatios y colador de acero inoxidable.\n- Fácil de limpiar, con partes aptas para lavavajillas.\n- Garantía limitada de 3 años.",
+    contra: "Desventajas:\n- Costo de envío puede ser elevado en algunos casos.",
+    resumen: "En resumen, el exprimidor de jugo Hamilton Beach es una excelente elección para aquellos que desean disfrutar de jugos frescos y saludables de forma rápida y conveniente. Su potente motor, boca grande y facilidad de limpieza lo convierten en una herramienta práctica en la cocina. Si buscas una forma efectiva de incorporar más jugo fresco en tu dieta, este exprimidor es una opción a considerar."
+  }
+  ,{
+    id: 29,
+    titulo: "SLENPET Ventilador de Escritorio USB de 6 pulgadas",
+    producto: "Un potente ventilador de mesa con 4 velocidades, rotación de 90 grados y alimentado por USB. Disponible en color Negro.",
+    info: "Este ventilador de escritorio de SLENPET es una solución moderna y efectiva para mantenerte fresco en tu hogar u oficina. Ofrece 4 velocidades para ajustar el flujo de aire según tus necesidades y una función de rotación de cabeza de 90 grados para distribuir el aire de manera uniforme. Además, es alimentado por USB, lo que lo hace conveniente de usar en cualquier lugar con una fuente de energía USB disponible.",
+    img: "https://m.media-amazon.com/images/I/71h2lqqTrZL._AC_SX569_.jpg",
+    linkAfiliado: "https://amzn.to/3Rf9zfV",
+    review: "Con una calificación promedio de 4.7 estrellas según 3,279 calificaciones, este ventilador ha sido muy apreciado por sus usuarios. Destacan su potencia, bajo nivel de ruido y facilidad de uso. Es una adición útil y cómoda para cualquier escritorio o mesita de noche.",
+    pro: "Ventajas:\n- Cuatro velocidades para un control preciso del flujo de aire.\n- Rotación de cabeza de 90 grados para una distribución uniforme del aire.\n- Funcionamiento silencioso con un nivel de ruido de 50 dB.\n- Alimentado por USB para mayor conveniencia.\n- Construcción de alta calidad para una larga vida útil.",
+    contra: "Desventajas:\n- El costo de envío a Argentina es relativamente alto.\n- No tiene opción de funcionar con batería, por lo que requiere una fuente de energía USB.",
+    resumen: "En resumen, el ventilador de escritorio SLENPET de 6 pulgadas es una opción confiable y conveniente para mantenerte fresco en espacios de trabajo o descanso. Con su diseño moderno, múltiples velocidades y funcionamiento silencioso, es una herramienta práctica para cualquier entorno. A pesar del costo de envío, su calidad y rendimiento lo convierten en una inversión que vale la pena considerar."
+  }
+  ,{
+    id: 28,
+    titulo: "Ninja BN801 - Sistema de Cocina Profesional Plus",
+    producto: "Ninja Professional Plus Sistema de Cocina con Auto-iQ",
+    info: "Este sistema de cocina Ninja ofrece una amplia variedad de funciones, desde triturar hielo para bebidas congeladas hasta procesar alimentos y preparar batidos saludables. Es versátil y fácil de usar, lo que lo convierte en una adición valiosa para cualquier cocina.",
+    img: "https://m.media-amazon.com/images/I/81W+ZH79QRL._AC_SX569_.jpg",
+    linkAfiliado: "https://amzn.to/3LikJwn",
+    review: "El Ninja BN801 es altamente valorado por los usuarios, con una calificación promedio de 4.8 estrellas. Ofrece un rendimiento profesional en una variedad de tareas culinarias y es especialmente elogiado por su facilidad de limpieza.",
+    pro: "Ventajas:\n- Potente motor de 1200 vatios\n- Diversas funciones, desde trituración de hielo hasta procesamiento de alimentos\n- Incluye tazas de licuadora monoservicio para llevar\n- Fácil de limpiar, con cuchillas aptas para lavavajillas",
+    contra: "Desventajas:\n- Puede resultar un poco costoso\n- Requiere espacio de almacenamiento\n- Algunos usuarios pueden encontrarlo ruidoso durante su uso",
+    resumen: "En resumen, el Ninja BN801 es un sistema de cocina versátil y potente que facilita una amplia gama de tareas culinarias. Su rendimiento profesional y facilidad de limpieza lo convierten en una excelente inversión para quienes deseen simplificar la preparación de alimentos en casa."
+  }
+  ,{
+    id: 27,
+    titulo: "Lavaplatos Portátil Compacto",
+    producto: "NOVETE Lavavajillas Portátil",
+    info: "Lavavajillas compacto con tanque de agua integrado, 5 programas de lavado, secado al aire y luz LED.",
+    img: "https://m.media-amazon.com/images/I/71aAjuZlM5L._AC_SX679_.jpg",
+    linkAfiliado: "https://amzn.to/3qEwA0R",
+    review: "El lavavajillas NOVETE es una solución conveniente y eficiente para mantener tu vajilla limpia. Su diseño compacto y múltiples funciones lo convierten en una adición valiosa a cualquier hogar.",
+    pro: "Ahorro de agua y electricidad, fácil de usar y ajustar, capacidad de secado al aire caliente, adecuado para espacios pequeños.",
+    contra: "El espacio interior puede ser limitado para platos grandes, puede requerir un tiempo adicional para platos muy sucios.",
+    resumen: "El NOVETE Lavavajillas Portátil ofrece comodidad y eficiencia para mantener tu vajilla impecable sin esfuerzo. Su diseño compacto, variedad de funciones y facilidad de uso lo convierten en una opción ideal para hogares con espacios reducidos."
+  }
+  , {
+    id: 26,
+    titulo: "Horno Microondas Toshiba",
+    producto: "Horno Microondas Compacto Toshiba",
+    info: "El Horno Microondas Toshiba ofrece practicidad y eficiencia en la cocina. Con su diseño compacto y potentes funciones, es una adición ideal para tu hogar.",
+    img: "https://m.media-amazon.com/images/I/81aCoFMrCyS._AC_SX522_.jpg",
+    linkAfiliado: "https://amzn.to/47Jodl7",
+    review: "El Horno Microondas Toshiba combina funcionalidad y estilo en un diseño compacto. Con 900 vatios de potencia y 10 niveles de potencia, calentar y cocinar tus platos favoritos es rápido y sencillo. Su capacidad interior es sorprendentemente amplia para su tamaño, lo que lo hace perfecto para cualquier espacio. Además, características como la luz LED de cavidad, el modo silencioso y el modo ecológico de ahorro de energía hacen que este microondas sea altamente conveniente y versátil.",
+    pro: "- Potente y rápido con 900 vatios y 10 niveles de potencia.\n- Diseño compacto que se adapta a cualquier espacio.\n- Funciones como la luz LED de cavidad y el modo silencioso.",
+    contra: "Desventaja:\n- Algunos usuarios podrían preferir más opciones de cocción preestablecidas.",
+    resumen: "El Horno Microondas Toshiba te ofrece la comodidad de calentar y cocinar de manera eficiente en un diseño compacto. Con características prácticas y un funcionamiento sencillo, es una herramienta esencial para tu cocina diaria."
+    }, {
+    id: 25,
+    titulo: "Silla Ergonómica AmazonCommercial",
+    producto: "Silla Ergonómica de Escritorio Ejecutiva AmazonCommercial",
+    info: "La Silla Ergonómica de Escritorio Ejecutiva AmazonCommercial ofrece comodidad y funcionalidad para tu espacio de trabajo. Con ajustes personalizables y características de soporte, esta silla es ideal para largas horas de trabajo en la oficina.",
+    img: "https://m.media-amazon.com/images/I/61CUGLzW65L._AC_SX522_.jpg",
+    linkAfiliado: "https://amzn.to/44kyJMQ",
+    review: "La Silla Ergonómica AmazonCommercial combina estilo y comodidad para una experiencia de trabajo productiva. Su diseño ergonómico y ajustable permite adaptarla a tus preferencias, proporcionando un excelente soporte lumbar y de inclinación. Los reposabrazos abatibles permiten mayor flexibilidad, mientras que su construcción duradera garantiza su uso a largo plazo. Ideal para largas sesiones de trabajo.",
+    pro: "- Diseño ergonómico con soporte lumbar y de inclinación.\n- Reposabrazos abatibles para mayor flexibilidad.\n- Construcción duradera para uso a largo plazo.",
+    contra: "Puede requerir tiempo para ajustarla a la posición óptima.",
+  resumen: "La Silla Ergonómica AmazonCommercial es la solución perfecta para un espacio de trabajo cómodo y productivo. Con ajustes personalizables y características de soporte, te brinda la comodidad necesaria para enfrentar largas jornadas laborales sin comprometer la postura."
+    },{
     id: 24,
     titulo: "Juego de utensilios de cocina Calphalon de acero inoxidable clásicos, 10 piezas, Plateado",
     producto: "El juego de utensilios de cocina Calphalon de acero inoxidable clásicos incluye 10 piezas esenciales para cocinar.",
